@@ -24,7 +24,6 @@ public class Walking : MonoBehaviour
         float input_y = Input.GetAxisRaw("Vertical");
         int direction = 4;
 
-        //if player touches a direction, it will increase one of the inputs therefor making isWalking > 0.
         if (input_x > 0)
         {
             direction = 2;
