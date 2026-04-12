@@ -9,7 +9,6 @@ public class PauseManager : MonoBehaviour
 
     void Awake()
     {
-        // Singleton pattern (only one instance)
         if (Instance == null)
         {
             Instance = this;
