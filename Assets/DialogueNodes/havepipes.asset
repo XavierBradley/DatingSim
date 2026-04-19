@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: havepipes
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  dialogueText: 'Oh wow! My pipes! Now you can pipe me down! That''s so awesome! '
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 3624413539235301459, guid: 3ca66ab51027c8e40a80dc9bf8cb4aba, type: 3}
+  npcSprite: {fileID: -2761387464772835428, guid: a050d4fac0c9cf147b8d0361f0a472b4, type: 3}
+  options:
+  - optionText: 'Let''s get started! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+    requiredFlag: 
+    usePhaseRequirement: 1
+    requiredPhase: 0
+    changesPhase: 1
+    newPhase: 1
