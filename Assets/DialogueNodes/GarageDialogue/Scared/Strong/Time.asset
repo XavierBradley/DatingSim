@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Time
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: G-greg! I... I didn't know you felt that way... I... I love spending
+    time with you too! Let's... let's fix this power so we can... go spend even more
+    time together!
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: 'That sounds absolutely perfect to me.... to more time together! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: That sounds absolutely perfect!
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: I'll resist the urge to go slow so I have more time to stare into
+      your eyes...
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: I'll resist the urge to go slow so I have more time to stare into your
+        eyes...
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: You know... now that you mention spending more time together I'm
+      wondering if this was a mistake...
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: You know... now that you mention spending more time together I'm wondering
+        if this was a mistake...
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Amazing! Let me hop right to it then! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

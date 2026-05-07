@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: GoForIt
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Oh! Uh! Y-yeah! I... I''d love to go for it! But.. uh... we should...
+    probably fix the power first! You know... just to make sure it''s done! '
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: That's music to my ears! Let me go fix the power... and then I'll
+      make you mine...
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: That's music to my ears! Let me go fix the power... and then I'll make
+        you mine...
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'If I fix the power first, then I''ll be expecting a victory kiss
+      after! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: On second thought.. I'm thinking maybe we shouldn't just go for each
+      other...
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Yay! Let''s get that power fixed right up! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

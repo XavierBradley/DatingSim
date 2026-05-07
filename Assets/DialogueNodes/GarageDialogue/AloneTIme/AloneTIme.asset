@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: AloneTIme
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: O-oh! Y-yeah... it... it is... really nice.... we should... maybe
+    do this... more often?
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: I think I'd like that very much! Being able to spend more time with
+      you is just what I need...
+    nextNode: {fileID: 11400000, guid: fb54aa2585df9594db4a5b63ae21c0f7, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Stumble around blindly in my garage during a storm? I can think of
+      much more fun stuff we can do together...
+    nextNode: {fileID: 11400000, guid: 6fb6c3c61c4d6f348b503c666694b8a5, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'I don''t know... I feel like this night has gone about as poorly
+      as it could... '
+    nextNode: {fileID: 11400000, guid: 9db08718b0397ed42867daa778e17148, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'We should! Did you find the power box yet? '
+    nextNode: {fileID: 11400000, guid: 2b64a58d56d7fa2479a13c2b05390153, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

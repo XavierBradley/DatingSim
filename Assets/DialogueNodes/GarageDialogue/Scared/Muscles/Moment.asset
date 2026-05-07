@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Moment
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Ah! Uh! I... I guess we are! And.. it''s a great moment! It is! I
+    just... think... maybe we should... put it on pause... just until we fix the
+    power! '
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: It's hard to pump the brakes on my passion when you're around...
+      but I'll do my best. You focus on looking pretty while I fix this up
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: It's hard to pump the brakes on my passion when you're around... but
+        I'll do my best. You focus on looking pretty while I fix this up
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: It's an amazing moment... one that I wish could last forever... but
+      alas the power calls
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: It's an amazing moment... one that I wish could last forever... but alas
+        the power calls
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: On second thought... maybe we should just put it on indefinite pause.
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Sounds good! I''ll go fix the power then! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

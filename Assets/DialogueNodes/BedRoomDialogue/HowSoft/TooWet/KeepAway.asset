@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: KeepAway
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Don''t you think you''re platypushing it a little dude? I got that
+    natural sea cleanser, but whatever man... let''s just find the blankets '
+  conditionalTexts: []
+  locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  options:
+  - optionText: 'Sorry, that was a rather rash thing to say... let''s just find the
+      blankets and move on!  '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Sorry, that was a rather rash thing to say... let''s just find the blankets
+        and move on!  '
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Last I checked the sea doesn't cleans nearly as well as a shower
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Last I checked the sea doesn't cleans nearly as well as a shower
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

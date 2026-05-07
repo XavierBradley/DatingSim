@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: BathroomNode
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Oh hey! I''m so glad you decided to come help me out! Now that it''s
+    just you and me, my headache is already starting to go down! '
+  conditionalTexts:
+  - text: Sorry, can't chat anymore... I really just need those meds!
+    requiredFlags:
+    - BathroomIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: 'Sounds to me like it wasn''t medicine you needed... '
+    nextNode: {fileID: 11400000, guid: ababdbba30523404caef8923f5e492f7, type: 2}
+    choiceTrigger:
+      text: 'Sounds to me like it wasn''t medicine you needed... '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - BathroomIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Oh, so should we just keep staring into each others eyes until you're
+      completely better?
+    nextNode: {fileID: 11400000, guid: 6ef9a06b25dfd244992e239ac3baf227, type: 2}
+    choiceTrigger:
+      text: Oh, so should we just keep staring into each others eyes until you're
+        completely better?
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - BathroomIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: You mean you're just being difficult for no reason?
+    nextNode: {fileID: 11400000, guid: 0dfecf48a577bc24a851f537d071a81f, type: 2}
+    choiceTrigger:
+      text: You mean you're just being difficult for no reason?
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - BathroomIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Awesome! Sorry, I just need to step away for a moment.
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Awesome! Sorry, I just need to step away for a moment.
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - BathroomIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Right! Sorry, let me get back to looking!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Awesome! Sorry, I just need to step away for a moment.
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - BathroomIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Can''t you go find it yourself? '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Awesome! Sorry, I just need to step away for a moment.
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - BathroomIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Make it midgame
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Awesome! Sorry, I just need to step away for a moment.
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 1
+      newPhase: 1
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

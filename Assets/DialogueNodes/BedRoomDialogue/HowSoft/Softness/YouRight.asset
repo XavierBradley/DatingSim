@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: YouRight
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Yeah... yeah we do! And I''m looking forward to it like the beach
+    looks forward to the waves! But right now we doooo need to find some nice, snuggly
+    blankets!  '
+  conditionalTexts: []
+  locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  options:
+  - optionText: That's quite the praise... but I have to agree! The sooner we find
+      the blankets the better
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: That's quite the praise... but I have to agree! The sooner we find the
+        blankets the better
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Snuggling sounds just perfect right about now... we REALLY need
+      those blankets! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Snuggling sounds just perfect right about now... we REALLY need those
+        blankets! '
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Sounds to me like you're a good deal more excited for it than I am...
+      good for you I guess
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Sounds to me like you're a good deal more excited for it than I am...
+        good for you I guess
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Absolutely! Let''s find those blankets! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Absolutely! Let''s find those blankets! '
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

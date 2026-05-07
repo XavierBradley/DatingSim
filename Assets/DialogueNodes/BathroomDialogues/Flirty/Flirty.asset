@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Flirty
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Oh.... oh my! Don''t tell me you just came to tease me! You''re only
+    going to make things worse you.... you big jerk! '
+  conditionalTexts: []
+  locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: 'If you''re going to look so damn cute when I tease you how can I
+      not? '
+    nextNode: {fileID: 11400000, guid: a47fd941c81eb384fa5932961fd9b8f4, type: 2}
+    choiceTrigger:
+      text: 'If you''re going to look so damn cute when I tease you how can I not? '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: It's hard to believe I'm making things worse when you're blushing
+      like that...
+    nextNode: {fileID: 11400000, guid: 866bb4b799d7c2948acb15208359b6b5, type: 2}
+    choiceTrigger:
+      text: It's hard to believe I'm making things worse when you're blushing like
+        that...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Damn bro, I''m just being playful.. you don''t have to be such a
+      baby about it. '
+    nextNode: {fileID: 11400000, guid: 55423b80fd265e849b746a783b2f247f, type: 2}
+    choiceTrigger:
+      text: 'Damn bro, I''m just being playful.. you don''t have to be such a baby
+        about it. '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Alright alright sorry... how's your head feeling?
+    nextNode: {fileID: 11400000, guid: 5c6f155a6ef760c4daaddd19ead79bfa, type: 2}
+    choiceTrigger:
+      text: Alright alright sorry... how's your head feeling?
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

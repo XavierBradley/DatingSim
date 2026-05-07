@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: FindPowerBox
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: The power box that needs fixing is right over here! I tried to give
+    it a once over but I really can't make heads or tails of it, do you think you
+    can give it a look?
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: 'Absolutely! I''m on it! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Absolutely! I''m on it! '
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: For sure! You just look pretty for me and I'll get it sorted out
+      right quick
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: For sure! You just look pretty for me and I'll get it sorted out right
+        quick
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Why am I not surprised you couldn't figure out a breaker...
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Why am I not surprised you couldn't figure out a breaker...
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

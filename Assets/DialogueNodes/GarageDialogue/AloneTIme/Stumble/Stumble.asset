@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Stumble
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: O-oh! Oh my... I... I suppose.... there... could be... better things...
+    we could be... getting up to... huh?
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: Much better... but as long as I get to see your cute face, it doesn't
+      matter too much anyway
+    nextNode: {fileID: 11400000, guid: 5b01bd85ef3f0b745aa22bcf663d8896, type: 2}
+    choiceTrigger:
+      text: Much better... but as long as I get to see your cute face, it doesn't
+        matter too much anyway
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: We could... but instead of talking about it, maybe we should show
+      each other...
+    nextNode: {fileID: 11400000, guid: 0ec000259eec29f46af57112145d306e, type: 2}
+    choiceTrigger:
+      text: We could... but instead of talking about it, maybe we should show each
+        other...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Yeah... like literally anything... even just making a sandwich would
+      be better than this...
+    nextNode: {fileID: 11400000, guid: 167a56395e29bcc4d83df1a2da76d137, type: 2}
+    choiceTrigger:
+      text: Yeah... like literally anything... even just making a sandwich would
+        be better than this...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Yeah! For starters, did you see the power box to fix? '
+    nextNode: {fileID: 11400000, guid: 2b64a58d56d7fa2479a13c2b05390153, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

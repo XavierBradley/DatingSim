@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: KnowEachOther
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: Oh! M-my bad... I guess... I must have... misread... something...
+    th-the... powerbox is.... just here...
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: 'Sorry... you didn''t misread... I''m just a little on edge is all!
+      Let me fix the power and we can relax a little! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Sorry... you didn''t misread... I''m just a little on edge is all! Let
+        me fix the power and we can relax a little! '
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Yeah, yeah I think you did. '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: GarageIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

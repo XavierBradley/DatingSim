@@ -1,0 +1,61 @@
+{
+  "character": {
+    "id": "47f436bc-d961-4416-a35a-52b12559dd33",
+    "name": "brown haired casual outfir simple guy",
+    "prompt": "brown haired casual outfir simple guy",
+    "size": {
+      "width": 68,
+      "height": 68
+    },
+    "template_id": "mannequin",
+    "directions": 4,
+    "view": "low top-down",
+    "created_at": "2026-04-14T13:21:49.438096+00:00"
+  },
+  "frames": {
+    "rotations": {
+      "south": "rotations/south.png",
+      "west": "rotations/west.png",
+      "east": "rotations/east.png",
+      "north": "rotations/north.png"
+    },
+    "animations": {
+      "animation-836cc464": {
+        "south": [
+          "animations/animation-836cc464/south/frame_000.png",
+          "animations/animation-836cc464/south/frame_001.png",
+          "animations/animation-836cc464/south/frame_002.png",
+          "animations/animation-836cc464/south/frame_003.png",
+          "animations/animation-836cc464/south/frame_004.png",
+          "animations/animation-836cc464/south/frame_005.png"
+        ],
+        "north": [
+          "animations/animation-836cc464/north/frame_000.png",
+          "animations/animation-836cc464/north/frame_001.png",
+          "animations/animation-836cc464/north/frame_002.png",
+          "animations/animation-836cc464/north/frame_003.png",
+          "animations/animation-836cc464/north/frame_004.png",
+          "animations/animation-836cc464/north/frame_005.png"
+        ],
+        "east": [
+          "animations/animation-836cc464/east/frame_000.png",
+          "animations/animation-836cc464/east/frame_001.png",
+          "animations/animation-836cc464/east/frame_002.png",
+          "animations/animation-836cc464/east/frame_003.png",
+          "animations/animation-836cc464/east/frame_004.png",
+          "animations/animation-836cc464/east/frame_005.png"
+        ],
+        "west": [
+          "animations/animation-836cc464/west/frame_000.png",
+          "animations/animation-836cc464/west/frame_001.png",
+          "animations/animation-836cc464/west/frame_002.png",
+          "animations/animation-836cc464/west/frame_003.png",
+          "animations/animation-836cc464/west/frame_004.png",
+          "animations/animation-836cc464/west/frame_005.png"
+        ]
+      }
+    }
+  },
+  "export_version": "2.0",
+  "export_date": "2026-04-14T13:26:09.204836"
+}

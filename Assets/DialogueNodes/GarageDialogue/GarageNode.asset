@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: GarageNode
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Gosh it''s so spooky in here... I''m glad to have you here with me
+    Greg! '
+  conditionalTexts:
+  - text: 'I really don''t wanna linger around here any longer... let''s get the
+      power fixed ASAP '
+    requiredFlags:
+    - GarageIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: I'm glad too! It's always nice. being able to get some quality alone
+      time with you...
+    nextNode: {fileID: 11400000, guid: fdbd474c91bc3a541953757025ea4d00, type: 2}
+    choiceTrigger:
+      text: I'm glad too! It's always nice. being able to get some quality alone
+        time with you...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - GarageIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Don''t worry... if you get scared, you can just grab me and I''ll
+      protect you! '
+    nextNode: {fileID: 11400000, guid: 3a18f69cfee8be44ebb81d200c039306, type: 2}
+    choiceTrigger:
+      text: 'Don''t worry... if you get scared, you can just grab me and I''ll protect
+        you! '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - GarageIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: It's just a garage man, don't be a baby
+    nextNode: {fileID: 11400000, guid: dd55d0b2adda3504d96709d52cdbdbc5, type: 2}
+    choiceTrigger:
+      text: It's just a garage man, don't be a baby
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - GarageIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Yeah! Did you find the power box yet?
+    nextNode: {fileID: 11400000, guid: 2b64a58d56d7fa2479a13c2b05390153, type: 2}
+    choiceTrigger:
+      text: Yeah! Did you find the power box yet?
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags:
+    - GarageIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Right! I'm on it!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Right! I'm on it!
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - GarageIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: You really are a baby
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Right! I'm on it!
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - GarageIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

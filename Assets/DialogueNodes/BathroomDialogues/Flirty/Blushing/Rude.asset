@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Rude
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'I... I do not! You''re just... more stressful than you realize! My
+    head is pounding, can you please just help me find the tylenol? '
+  conditionalTexts: []
+  locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: This has been a lot... I'm sorry I shouldnt've said that. I'll find
+      those meds
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: This has been a lot... I'm sorry I shouldnt've said that. I'll find those
+        meds
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Bro I''m pretty sure you get stressed out by pigeons flying by.
+      Good luck with that. '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 1
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Alright alright... I'll see what I can do
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

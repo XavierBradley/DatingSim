@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: KitchenNode
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: Whale what do we have here? You didn't cheap out on getting the good
+    stuff for us did you Greg?
+  conditionalTexts: []
+  locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  options:
+  - optionText: You act surprised, like I haven't always provided the very best for
+      you?
+    nextNode: {fileID: 11400000, guid: 28aa0577e62d1254abcb3bb3f6ab3555, type: 2}
+    choiceTrigger:
+      text: You act surprised, like I haven't always provided the very best for you?
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: I don't know... from where I'm standing it looks like you brought
+      the good stuff...
+    nextNode: {fileID: 11400000, guid: b9597a9e7e37f814ab06661b9dc1e8b0, type: 2}
+    choiceTrigger:
+      text: I don't know... from where I'm standing it looks like you brought the
+        good stuff...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Yeah... for me! You don''t get to run your grubby hands on my good
+      ingredients! '
+    nextNode: {fileID: 11400000, guid: 0b1209292e43e224fb55d35c1bd78810, type: 2}
+    choiceTrigger:
+      text: 'Yeah... for me! You don''t get to run your grubby hands on my good ingredients! '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: I would never! You ready to make a sandwich?
+    nextNode: {fileID: 11400000, guid: 5c008127f0dd48145990a99ef96ecd6d, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

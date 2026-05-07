@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Cuddling
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: '?!?! N-no! I... I''m not! I... I can''t imagine anything right now!
+    My head is pounding... can... can you just... help me find the meds already?! '
+  conditionalTexts: []
+  locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: 'Awwww you''re so adorable! Tylenol coming right up! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Awwww you''re so adorable! Tylenol coming right up! '
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: If you say so hot stuff... let's get you those meds.
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Damn, sounds like you really need to get that sorted out.
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Right, sorry! I''ll go get them! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: BathroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

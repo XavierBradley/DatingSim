@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: Scared
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: Oh! Uh..... w-well... I'll... uh... be sure to keep that... in mind...
+    y-you are... pretty strong...
+  conditionalTexts: []
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  options:
+  - optionText: Damn right! I can show you just how strong.... if you'd like that...
+    nextNode: {fileID: 11400000, guid: 46f5f38678afc6a4fa14ae10bc47f503, type: 2}
+    choiceTrigger:
+      text: Damn right! I can show you just how strong.... if you'd like that...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'I hope my muscles aren''t the only thing you''re keeping in mind! '
+    nextNode: {fileID: 11400000, guid: 150d43b7e1a5960499c255923090d08e, type: 2}
+    choiceTrigger:
+      text: 'I hope my muscles aren''t the only thing you''re keeping in mind! '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: A hell of a lot stronger than your bitch ass that's for sure
+    nextNode: {fileID: 11400000, guid: e27c41812e672de44aa5a2905fccf3e7, type: 2}
+    choiceTrigger:
+      text: A hell of a lot stronger than your bitch ass that's for sure
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'I am! And I''ll use that strength to fix the power, did you find
+      the power box? '
+    nextNode: {fileID: 11400000, guid: 2b64a58d56d7fa2479a13c2b05390153, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0

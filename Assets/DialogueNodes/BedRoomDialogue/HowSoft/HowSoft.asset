@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
+  m_Name: HowSoft
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  defaultText: 'Haha, I bet it''s soft enough to be snug as a clam! Can''t really
+    properly test it unless we sleep in it though!  '
+  conditionalTexts: []
+  locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  options:
+  - optionText: I'm fully aware of what we'd need to do to test the softness...
+    nextNode: {fileID: 11400000, guid: 31648e1e081415f4d99b76c2cfe6997a, type: 2}
+    choiceTrigger:
+      text: I'm fully aware of what we'd need to do to test the softness...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: You really do make everything about the ocean huh? I hope you won't
+      be getting too wet in my bed...
+    nextNode: {fileID: 11400000, guid: 8554478ac4372c74f8a4f0605e562f50, type: 2}
+    choiceTrigger:
+      text: You really do make everything about the ocean huh? I hope you won't be
+        getting too wet in my bed...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Seems like you''ve got about as much personality as a clam... '
+    nextNode: {fileID: 11400000, guid: ee54d7b2165409a4ea78c02186719336, type: 2}
+    choiceTrigger:
+      text: 'Seems like you''ve got about as much personality as a clam... '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'You''re right... have you found the blankets? '
+    nextNode: {fileID: 11400000, guid: a6bb61c2659e32846b28d9277d2a3b79, type: 2}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
