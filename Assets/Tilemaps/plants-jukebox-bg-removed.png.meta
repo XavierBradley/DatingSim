@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 836734470b346dd44bbedaf4f15db031
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8926439347916621899
+    second: plants-jukebox-bg-removed_0
+  - first:
+      213: -8131044513630032682
+    second: plants-jukebox-bg-removed_1
+  - first:
+      213: -5440015172663105711
+    second: plants-jukebox-bg-removed_2
+  - first:
+      213: 7905113078408103321
+    second: plants-jukebox-bg-removed_3
+  - first:
+      213: -1917636327930167500
+    second: plants-jukebox-bg-removed_4
+  - first:
+      213: -4302297081945809704
+    second: plants-jukebox-bg-removed_5
+  - first:
+      213: -897432720922296991
+    second: plants-jukebox-bg-removed_6
+  - first:
+      213: -8798538458946336472
+    second: plants-jukebox-bg-removed_7
+  - first:
+      213: -6868044880627900908
+    second: plants-jukebox-bg-removed_8
+  - first:
+      213: -8202120149544355668
+    second: plants-jukebox-bg-removed_9
+  - first:
+      213: -7157090984016710549
+    second: plants-jukebox-bg-removed_10
+  - first:
+      213: 5347524583205127625
+    second: plants-jukebox-bg-removed_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 870
+        width: 142
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73c5615baee1480800000000000000
+      internalID: -8926439347916621899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 863
+        width: 182
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc6130581ab82f80800000000000000
+      internalID: -8131044513630032682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 870
+        width: 276
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1572eacd50f2184b0800000000000000
+      internalID: -5440015172663105711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 863
+        width: 274
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954fc3367a94bd60800000000000000
+      internalID: 7905113078408103321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 475
+        width: 250
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f76597bef2365e0800000000000000
+      internalID: -1917636327930167500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 482
+        width: 183
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc9b68399b2b44c0800000000000000
+      internalID: -4302297081945809704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 451
+        width: 226
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d3d93f1bdab83f0800000000000000
+      internalID: -897432720922296991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 475
+        width: 217
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82904e363ef45e580800000000000000
+      internalID: -8798538458946336472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 99
+        width: 221
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41edbbcc19dcfa0a0800000000000000
+      internalID: -6868044880627900908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 99
+        width: 235
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8b5514e273c2e80800000000000000
+      internalID: -8202120149544355668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 99
+        width: 217
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6478808ba7ecac90800000000000000
+      internalID: -7157090984016710549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 99
+        width: 213
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54c99a649363a40800000000000000
+      internalID: 5347524583205127625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plants-jukebox-bg-removed_0: -8926439347916621899
+      plants-jukebox-bg-removed_1: -8131044513630032682
+      plants-jukebox-bg-removed_10: -7157090984016710549
+      plants-jukebox-bg-removed_11: 5347524583205127625
+      plants-jukebox-bg-removed_2: -5440015172663105711
+      plants-jukebox-bg-removed_3: 7905113078408103321
+      plants-jukebox-bg-removed_4: -1917636327930167500
+      plants-jukebox-bg-removed_5: -4302297081945809704
+      plants-jukebox-bg-removed_6: -897432720922296991
+      plants-jukebox-bg-removed_7: -8798538458946336472
+      plants-jukebox-bg-removed_8: -6868044880627900908
+      plants-jukebox-bg-removed_9: -8202120149544355668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -803,8 +803,8 @@ TextureImporter:
         y: 35
         width: 23
         height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1019,13 +1019,13 @@ TextureImporter:
       name: TopDownHouse_FurnitureState2_37
       rect:
         serializedVersion: 2
-        x: 160
+        x: 159
         y: 224
-        width: 47
-        height: 33
+        width: 49
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1266,7 +1266,7 @@ TextureImporter:
         width: 16
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

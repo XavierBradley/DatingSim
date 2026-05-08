@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: cdd25ea071b7d45439bd6984fc4edaf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5384916133104653464
+    second: livingroom2-jukebox-bg-removed_0
+  - first:
+      213: 4414246406208343289
+    second: livingroom2-jukebox-bg-removed_1
+  - first:
+      213: 6805454983038145078
+    second: livingroom2-jukebox-bg-removed_2
+  - first:
+      213: -7855590391257109498
+    second: livingroom2-jukebox-bg-removed_3
+  - first:
+      213: -853870035840348860
+    second: livingroom2-jukebox-bg-removed_4
+  - first:
+      213: -8111232571840503078
+    second: livingroom2-jukebox-bg-removed_5
+  - first:
+      213: 1695260120948392200
+    second: livingroom2-jukebox-bg-removed_6
+  - first:
+      213: -1662965087112049833
+    second: livingroom2-jukebox-bg-removed_7
+  - first:
+      213: -6949388234065925232
+    second: livingroom2-jukebox-bg-removed_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 929
+        width: 441
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89419fa41b01bba40800000000000000
+      internalID: 5384916133104653464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 946
+        width: 479
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc71108bd824d30800000000000000
+      internalID: 4414246406208343289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 629
+        width: 147
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63296ee0045d17e50800000000000000
+      internalID: 6805454983038145078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 629
+        width: 145
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce52ce8265bf290800000000000000
+      internalID: -7855590391257109498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 349
+        width: 289
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dc265f9b17624f0800000000000000
+      internalID: -853870035840348860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 349
+        width: 140
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26ed873fc1f6f80800000000000000
+      internalID: -8111232571840503078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 349
+        width: 138
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801c30f1916c68710800000000000000
+      internalID: 1695260120948392200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 79
+        width: 142
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4fc46016fbe8e0800000000000000
+      internalID: -1662965087112049833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom2-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 79
+        width: 142
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba8367830de8f90800000000000000
+      internalID: -6949388234065925232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      livingroom2-jukebox-bg-removed_0: 5384916133104653464
+      livingroom2-jukebox-bg-removed_1: 4414246406208343289
+      livingroom2-jukebox-bg-removed_2: 6805454983038145078
+      livingroom2-jukebox-bg-removed_3: -7855590391257109498
+      livingroom2-jukebox-bg-removed_4: -853870035840348860
+      livingroom2-jukebox-bg-removed_5: -8111232571840503078
+      livingroom2-jukebox-bg-removed_6: 1695260120948392200
+      livingroom2-jukebox-bg-removed_7: -1662965087112049833
+      livingroom2-jukebox-bg-removed_8: -6949388234065925232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

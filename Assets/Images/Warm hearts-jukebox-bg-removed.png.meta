@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 69bdc56f913af0b48aba24c5b1b0e205
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6367179404619072806
+    second: Warm hearts-jukebox-bg-removed_0
+  - first:
+      213: 3243930261248596779
+    second: Warm hearts-jukebox-bg-removed_1
+  - first:
+      213: 1803119728522074431
+    second: Warm hearts-jukebox-bg-removed_2
+  - first:
+      213: -5069167714295637564
+    second: Warm hearts-jukebox-bg-removed_3
+  - first:
+      213: -8462673980505977204
+    second: Warm hearts-jukebox-bg-removed_4
+  - first:
+      213: -5633624658444802336
+    second: Warm hearts-jukebox-bg-removed_5
+  - first:
+      213: -6283190672200918269
+    second: Warm hearts-jukebox-bg-removed_6
+  - first:
+      213: 5886425003875630644
+    second: Warm hearts-jukebox-bg-removed_7
+  - first:
+      213: -4175271479013227948
+    second: Warm hearts-jukebox-bg-removed_8
+  - first:
+      213: 4703529068122802279
+    second: Warm hearts-jukebox-bg-removed_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 419
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625c0890fe3cc5850800000000000000
+      internalID: 6367179404619072806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 294
+        width: 1582
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bdcd1b261c40d20800000000000000
+      internalID: 3243930261248596779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 371
+        width: 672
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399e0af6d7f50910800000000000000
+      internalID: 1803119728522074431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 81
+        width: 393
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9978a42d2b6a9b0800000000000000
+      internalID: -5069167714295637564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 158
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e00061ada8e8a80800000000000000
+      internalID: -8462673980505977204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 56
+        width: 584
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6248ba83851d1b0800000000000000
+      internalID: -5633624658444802336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 46
+        width: 724
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b9a679f5f9dc8a0800000000000000
+      internalID: -6283190672200918269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 147
+        width: 414
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43efbf87a58c0b150800000000000000
+      internalID: 5886425003875630644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 18
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452c89c16b47e06c0800000000000000
+      internalID: -4175271479013227948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warm hearts-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 60
+        width: 300
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7680f2064ca464140800000000000000
+      internalID: 4703529068122802279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warm hearts-jukebox-bg-removed_0: 6367179404619072806
+      Warm hearts-jukebox-bg-removed_1: 3243930261248596779
+      Warm hearts-jukebox-bg-removed_2: 1803119728522074431
+      Warm hearts-jukebox-bg-removed_3: -5069167714295637564
+      Warm hearts-jukebox-bg-removed_4: -8462673980505977204
+      Warm hearts-jukebox-bg-removed_5: -5633624658444802336
+      Warm hearts-jukebox-bg-removed_6: -6283190672200918269
+      Warm hearts-jukebox-bg-removed_7: 5886425003875630644
+      Warm hearts-jukebox-bg-removed_8: -4175271479013227948
+      Warm hearts-jukebox-bg-removed_9: 4703529068122802279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
