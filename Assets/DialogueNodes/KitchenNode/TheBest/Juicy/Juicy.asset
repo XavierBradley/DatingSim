@@ -19,10 +19,12 @@ MonoBehaviour:
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 
-    nextNode: {fileID: 0}
+  - optionText: I can think of plenty of ways you could pay me back... how about
+      we start with a kiss?
+    nextNode: {fileID: 11400000, guid: 6645c31c95feed244adf6af3735a692a, type: 2}
     choiceTrigger:
-      text: 
+      text: I can think of plenty of ways you could pay me back... how about we start
+        with a kiss?
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -31,10 +33,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
-    nextNode: {fileID: 0}
+  - optionText: As long as they involve you holding me steady while you teach me
+      I could get behind some surfing lessons
+    nextNode: {fileID: 11400000, guid: e108d3fea6c3097478677f40e0495b54, type: 2}
     choiceTrigger:
-      text: 
+      text: As long as they involve you holding me steady while you teach me I could
+        get behind some surfing lessons
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -43,10 +47,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
-    nextNode: {fileID: 0}
+  - optionText: 'I think having you teach me to surf is the last possible thing I
+      could ever want '
+    nextNode: {fileID: 11400000, guid: 47591b035ff5bbd4490c5d716abf8651, type: 2}
     choiceTrigger:
-      text: 
+      text: 'I think having you teach me to surf is the last possible thing I could
+        ever want '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -55,7 +61,7 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
+  - optionText: 'That could be fun! You ready to make these sandwiches? '
     nextNode: {fileID: 11400000, guid: 5c008127f0dd48145990a99ef96ecd6d, type: 2}
     choiceTrigger:
       text: 

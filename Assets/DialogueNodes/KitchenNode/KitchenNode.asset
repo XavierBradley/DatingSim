@@ -14,7 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
   defaultText: Whale what do we have here? You didn't cheap out on getting the good
     stuff for us did you Greg?
-  conditionalTexts: []
+  conditionalTexts:
+  - text: I can't even think straight with how bad I'm salivating... these sandwiches
+      are going to be so dang good!
+    requiredFlags:
+    - KitchenIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
@@ -29,7 +36,8 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - KitchenIntro
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: I don't know... from where I'm standing it looks like you brought
@@ -43,7 +51,8 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - KitchenIntro
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: 'Yeah... for me! You don''t get to run your grubby hands on my good
@@ -56,7 +65,8 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - KitchenIntro
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: I would never! You ready to make a sandwich?
@@ -68,6 +78,33 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
+    blockedFlags:
+    - KitchenIntro
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Don't worry bud, they're on the way!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Don't worry bud, they're on the way!
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - KitchenIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'Gooood luck with that! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - KitchenIntro
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0

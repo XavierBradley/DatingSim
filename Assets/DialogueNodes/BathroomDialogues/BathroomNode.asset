@@ -105,7 +105,7 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Make it midgame
+  - optionText: '********Make it midgame********'
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Awesome! Sorry, I just need to step away for a moment.

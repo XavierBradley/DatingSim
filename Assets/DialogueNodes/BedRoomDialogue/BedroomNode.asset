@@ -14,7 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
   defaultText: 'You otter see this dude, this bed is like, totally the softest I''ve
     ever seen! It''s like a soft, pillowy beach!  '
-  conditionalTexts: []
+  conditionalTexts:
+  - text: Life is like riding a barrel; sometimes, you get swallowed by the foamball
+      and wipe out. But sometimes, you get the deepest pit of your life, and you
+      make it out after the spit. The crazy thing is, either way you get that full-on
+      greenroom vision, and either way you can get absolutely stoked. The key is
+      perspective. You gotta paddle out, you gotta drop in, and you gotta just genuinely
+      get psyched no matter what life throws your way.... oh, didn't see you there
+      dude! Still just looking for the blankets!
+    requiredFlags:
+    - BedroomIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
   locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
@@ -28,7 +40,8 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - BedroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: Is it? Guess I never thought about my bed so much as who I want in
@@ -41,7 +54,8 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - BedroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: Kind of weird of you to be testing out my bed like that bro..
@@ -53,7 +67,8 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - BedroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: Yeah! Have you found any blankets?
@@ -65,10 +80,11 @@ MonoBehaviour:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
-    blockedFlags: []
+    blockedFlags:
+    - BedroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Make it midgame
+  - optionText: '********Make it midgame********'
     nextNode: {fileID: 0}
     choiceTrigger:
       text: 
@@ -77,6 +93,32 @@ MonoBehaviour:
       changesPhase: 1
       newPhase: 1
     requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Uh.... right.... best of luck with that!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Uh.... right.... best of luck with that!
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - BedroomIntro
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'I''m still looking too! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'I''m still looking too! '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags:
+    - BedroomIntro
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
