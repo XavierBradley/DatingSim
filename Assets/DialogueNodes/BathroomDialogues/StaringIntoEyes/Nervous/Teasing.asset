@@ -10,59 +10,61 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
-  m_Name: Cute
+  m_Name: Teasing
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 'Greg! I... I didn''t know... you felt that way about me! Do you...
-    really think I''m cute?  '
+  defaultText: 'I.... suppose I''m not entirely against it! B-but... right now I
+    just really need that medicine! Pleaaase? '
   conditionalTexts: []
   locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:
-  - optionText: Of course I think you're cute! Why would I lie about that?
-    nextNode: {fileID: 11400000, guid: 0dc595bb23d90d447bf1fbbe161e6338, type: 2}
+  - optionText: Good! Then I'll be sure to tease you every chance I get!
+    nextNode: {fileID: 0}
     choiceTrigger:
-      text: Of course I think you're cute! Why would I lie about that?
+      text: Good! Then I'll be sure to tease you every chance I get!
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: BathroomIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: I feel alot of ways about you Ryan...
-    nextNode: {fileID: 11400000, guid: 6169700ffbe3c8741b231efaf26e5b5c, type: 2}
+  - optionText: I'm glad to hear it! I'd hate to ever make you unhappy... speaking
+      of, let me go get that medicine!
+    nextNode: {fileID: 0}
     choiceTrigger:
-      text: I feel alot of ways about you Ryan...
+      text: I'm glad to hear it! I'd hate to ever make you unhappy... speaking of,
+        let me go get that medicine!
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: BathroomIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 'I guess you were kinda cute... until you started being so cringe
-      about it. '
-    nextNode: {fileID: 11400000, guid: 1922aac26db4938469309dec090c10a1, type: 2}
+  - optionText: I'm not entirely against you but that doesn't mean I'm particularly
+      eager either...
+    nextNode: {fileID: 0}
     choiceTrigger:
-      text: 'I guess you were kinda cute... until you started being so cringe about
-        it. '
+      text: I'm not entirely against you but that doesn't mean I'm particularly eager
+        either...
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: BathroomIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Yeah! You're super cute! How's your head feeling?
-    nextNode: {fileID: 11400000, guid: 5c6f155a6ef760c4daaddd19ead79bfa, type: 2}
+  - optionText: Okay! I'll go find the meds!
+    nextNode: {fileID: 0}
     choiceTrigger:
-      text: Sure! How's your head feeling?
+      text: Okay! I'll go find the meds!
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: BathroomIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []

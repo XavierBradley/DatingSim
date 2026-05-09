@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: LeaveSuits
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
   defaultText: 'Oh my... we''ve been friends so long, I didn''t realize you had these
-    kind of EELings for me! I''m not sure what to say... let''s... find the blankets
-    while I think!  '
+    kind of EELings for me! If you''d really want me to move in... I''m not sure
+    what to say... let''s... find the blankets while I think!  '
   conditionalTexts: []
   locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}

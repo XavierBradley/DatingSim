@@ -34,7 +34,7 @@ MonoBehaviour:
   - optionText: If you say so hot stuff... let's get you those meds.
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: If you say so hot stuff... let's get you those meds.
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0
@@ -46,7 +46,7 @@ MonoBehaviour:
   - optionText: Damn, sounds like you really need to get that sorted out.
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: Damn, sounds like you really need to get that sorted out.
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0
@@ -58,7 +58,7 @@ MonoBehaviour:
   - optionText: 'Right, sorry! I''ll go get them! '
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: 'Right, sorry! I''ll go get them! '
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0

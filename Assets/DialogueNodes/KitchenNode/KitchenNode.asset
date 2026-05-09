@@ -15,8 +15,13 @@ MonoBehaviour:
   defaultText: Whale what do we have here? You didn't cheap out on getting the good
     stuff for us did you Greg?
   conditionalTexts:
+<<<<<<< Updated upstream
   - text: I can't even think straight with how bad I'm salivating... these sandwiches
       are going to be so dang good!
+=======
+  - text: 'Man... I''m practically sea foaming at the mouth... I need this sandwich
+      so bad I can''t even think of puns! '
+>>>>>>> Stashed changes
     requiredFlags:
     - KitchenIntro
     blockedFlags: []
@@ -82,16 +87,24 @@ MonoBehaviour:
     - KitchenIntro
     usePhaseRequirement: 0
     requiredPhase: 0
+<<<<<<< Updated upstream
   - optionText: Don't worry bud, they're on the way!
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Don't worry bud, they're on the way!
+=======
+  - optionText: 'That''s dire! Let''s get you fed ASAP! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'That''s dire! Let''s get you fed ASAP! '
+>>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
       newPhase: 0
     requiredFlags:
     - KitchenIntro
+<<<<<<< Updated upstream
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
@@ -99,12 +112,27 @@ MonoBehaviour:
     nextNode: {fileID: 0}
     choiceTrigger:
       text: 
+=======
+    blockedFlags:
+    - 
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Sounds to me like this is the state I need to keep you in
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Sounds to me like this is the state I need to keep you in
+>>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
       newPhase: 0
     requiredFlags:
     - KitchenIntro
+<<<<<<< Updated upstream
     blockedFlags: []
+=======
+    blockedFlags:
+    - 
+>>>>>>> Stashed changes
     usePhaseRequirement: 0
     requiredPhase: 0

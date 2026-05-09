@@ -13,18 +13,19 @@ MonoBehaviour:
   m_Name: WhoIWant
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
   defaultText: 'I feel ya dude! I sometimes think about how many dolphins could fit
-    in my bed, if they didn''t need water! It''s why I call my bed room my bed pod! '
+    in my bed, if they didn''t need water! Don''t they seem like they''d make for
+    the snuggliest pets? It''s why I call my bed room my bed pod! '
   conditionalTexts: []
   locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 'Oh? And have you ever thought of a person you might want to fit
-      in your bed? '
+  - optionText: 'Oh? And have you ever thought of a person you might want to snuggle
+      with after a long day of surfing? '
     nextNode: {fileID: 11400000, guid: 6978475345d501445bd94ffe005bb967, type: 2}
     choiceTrigger:
-      text: 'Oh? And have you ever thought of a person you might want to fit in your
-        bed? '
+      text: 'Oh? And have you ever thought of a person you might want to snuggle
+        with after a long day of surfing? '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -47,10 +48,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 'Do.... you have a thing for dolphins? That''s.... really gross bro... '
+  - optionText: 'You''re like.... really strangely focused on dolphins... aren''t
+      they too smart to be pets anyway? '
     nextNode: {fileID: 11400000, guid: f82384d045a92f34b8dcc0af2a965ee2, type: 2}
     choiceTrigger:
-      text: 'Do.... you have a thing for dolphins? That''s.... really gross bro... '
+      text: 'You''re like.... really strangely focused on dolphins... aren''t they
+        too smart to be pets anyway? '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0

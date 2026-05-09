@@ -48,7 +48,7 @@ MonoBehaviour:
   - optionText: Well good luck finding them then
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: Well good luck finding them then
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0
@@ -60,7 +60,7 @@ MonoBehaviour:
   - optionText: Gotcha, I'm sure I can find them.
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: Gotcha, I'm sure I can find them.
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0

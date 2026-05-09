@@ -17,7 +17,7 @@ MonoBehaviour:
   conditionalTexts: []
   locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:
   - optionText: That's fine... I think you're awfully cute when you can't think straight...
     nextNode: {fileID: 0}
@@ -31,10 +31,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Then don't think baby... just let daddy take care of you...
+  - optionText: Then don't think baby... just let me take care of you...
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Then don't think baby... just let daddy take care of you...
+      text: Then don't think baby... just let metake care of you...
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0

@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: Dolphins
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 'What?! Don''t be seelly bro! It''s nothing like that at all! You
-    should maybe get your head out of the gutter and pursue some calmer waves my
-    guy... oh and pursue the blankets '
+  defaultText: 'What?! Don''t be seelly bro! It''s nothing like that at all! They
+    wouldn''t be like, pets pets.... more like... really coold roommates! You need
+    to not trip and pursue some calmer waves my guy... oh and pursue the blankets '
   conditionalTexts: []
   locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
-  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  playerSprite: {fileID: -1034332879, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: 836729182306382076, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
   - optionText: 'Sorry... I guess I was just a little caught off guard by the comment!
       Let''s forget it and find those blankets '
@@ -34,12 +34,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: I don't know man... with how much the ocean is in your mind I don't
-      doubt you might want it in your body
+  - optionText: If you say so man... but I feel like the dolphins might end up just
+      keeping you as a pet instead
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: I don't know man... with how much the ocean is in your mind I don't doubt
-        you might want it in your body
+      text: If you say so man... but I feel like the dolphins might end up just keeping
+        you as a pet instead
       requiredItem: {fileID: 0}
       setsFlag: BedroomIntro
       changesPhase: 0

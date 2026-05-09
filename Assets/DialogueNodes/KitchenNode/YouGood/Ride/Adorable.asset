@@ -12,28 +12,57 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: Adorable
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 
+  defaultText: Awww shucks! You're too kind! I think you're really cute too! But
+    uh.... right now we should probably make some grub before we get too distracted...
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 
+  - optionText: 'I''m so glad you feel that way too! I''m really glad to be spending
+      this time together... let''s get you fed! '
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: 'I''m so glad you feel that way too! I''m really glad to be spending
+        this time together... let''s get you fed! '
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: KitchenIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
+  - optionText: Too late... you're already so distracting I'm not sure how well I'll
+      be able to make these sandwiches
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: Too late... you're already so distracting I'm not sure how well I'll
+        be able to make these sandwiches
+      requiredItem: {fileID: 0}
+      setsFlag: KitchenIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'You''re right... I guess I am kind of out of your league huh? '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'You''re right... I guess I am kind of out of your league huh? '
+      requiredItem: {fileID: 0}
+      setsFlag: KitchenIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Sound good! Let's do it!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Sound good! Let's do it!
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0

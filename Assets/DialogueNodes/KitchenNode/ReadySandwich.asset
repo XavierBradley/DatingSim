@@ -12,17 +12,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: ReadySandwich
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+<<<<<<< Updated upstream
   defaultText: 'I sure am dude! I''m practically salivating at the thought, I didn''t
     realize how Herongry I am! '
+=======
+  defaultText: 'Hell to the yeah I''m ready! I was born ready! I''m so hungry I could
+    eat a whale, let''s get cooking! '
+>>>>>>> Stashed changes
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
+<<<<<<< Updated upstream
   - optionText: You're always way too hungry
     nextNode: {fileID: 0}
     choiceTrigger:
       text: You're always way too hungry
+=======
+  - optionText: 'Sound to me like I''ve kept you waiting long enough, let''s do this! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Sound to me like I''ve kept you waiting long enough, let''s do this! '
+>>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -31,10 +43,17 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
+<<<<<<< Updated upstream
   - optionText: 'Well then we need to get you fed! '
     nextNode: {fileID: 0}
     choiceTrigger:
       text: 'Well then we need to get you fed! '
+=======
+  - optionText: 'Well then good luck with that! '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 'Well then good luck with that! '
+>>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0

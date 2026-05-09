@@ -19,10 +19,12 @@ MonoBehaviour:
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: I'm fully aware of what we'd need to do to test the softness...
+  - optionText: I'm fully aware of what we'd need to do to test the softness! It
+      wouldn't be the first time we had a sleepover!
     nextNode: {fileID: 11400000, guid: 31648e1e081415f4d99b76c2cfe6997a, type: 2}
     choiceTrigger:
-      text: I'm fully aware of what we'd need to do to test the softness...
+      text: I'm fully aware of what we'd need to do to test the softness! It wouldn't
+        be the first time we had a sleepover!
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -31,12 +33,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: You really do make everything about the ocean huh? I hope you won't
-      be getting too wet in my bed...
+  - optionText: It's really cute how you can make everything about the ocean! You
+      better keep your wet suits far away from it though...
     nextNode: {fileID: 11400000, guid: 8554478ac4372c74f8a4f0605e562f50, type: 2}
     choiceTrigger:
-      text: You really do make everything about the ocean huh? I hope you won't be
-        getting too wet in my bed...
+      text: It's really cute how you can make everything about the ocean You better
+        keep your wet suits far away from it...
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -60,7 +62,7 @@ MonoBehaviour:
   - optionText: 'You''re right... have you found the blankets? '
     nextNode: {fileID: 11400000, guid: a6bb61c2659e32846b28d9277d2a3b79, type: 2}
     choiceTrigger:
-      text: 
+      text: 'You''re right... have you found the blankets? '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0

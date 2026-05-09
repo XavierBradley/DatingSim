@@ -35,7 +35,7 @@ MonoBehaviour:
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: 'Alright alright... we''ll find the blankets, then we can talk about
-      how.... eager we are. '
+      how soft you''d be in my bed! '
     nextNode: {fileID: 0}
     choiceTrigger:
       text: 'Alright alright... we''ll find the blankets, then we can talk about
@@ -48,8 +48,8 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Probably for the better... getting in bed with you probably would
-      have been a major mistake
+  - optionText: Probably for the better... having you in my bed probably would have
+      been a major mistake.
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Probably for the better... getting in bed with you probably would have

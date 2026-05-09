@@ -15,7 +15,7 @@ MonoBehaviour:
   defaultText: 'Ugh! Well... if you''re so mad at being here then... maybe you should
     just go do that! See what I care! '
   conditionalTexts: []
-  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  locationImage: {fileID: 8223305577009396306, guid: a3bda1da32945f149ac930f7c3cff4e1, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:

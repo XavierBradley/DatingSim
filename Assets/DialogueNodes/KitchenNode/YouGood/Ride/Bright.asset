@@ -12,28 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: Bright
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 
+  defaultText: 'Damn bro! That''s like, totally not rad! I''m just tryna have a good
+    time vibing with my homies! You don''t gotta totally barrel roll into a broken
+    board! '
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 
+  - optionText: 'I''m sorry... it was meant to be way more playful than it ended
+      up being! Let''s just make sandwiches and move on! '
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: 'I''m sorry... it was meant to be way more playful than it ended up being!
+        Let''s just make sandwiches and move on! '
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: KitchenIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
+  - optionText: That doesn't even make any sense, do you have any activity between
+      your ears?
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: That doesn't even make any sense, do you have any activity between your
+        ears?
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0

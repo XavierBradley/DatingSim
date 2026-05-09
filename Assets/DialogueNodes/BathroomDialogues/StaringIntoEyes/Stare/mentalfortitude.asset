@@ -17,8 +17,8 @@ MonoBehaviour:
     now... can you just help me.. find the Tylenol? '
   conditionalTexts: []
   locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
-  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  playerSprite: {fileID: -1034332879, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: -149523113, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:
   - optionText: Right... sorry... that was harsh of me... let me go find that for
       you
@@ -36,7 +36,7 @@ MonoBehaviour:
   - optionText: So a man can't have a little fun anymore? You're impossible...
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: So a man can't have a little fun anymore? You're impossible...
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0

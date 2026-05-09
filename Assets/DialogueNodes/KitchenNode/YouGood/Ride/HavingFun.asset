@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
-  m_Name: NotWhatIMeant
+  m_Name: HavingFun
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: Oh! Oh.... well... I have been riding for just about my entire life
-    so.... I'd like to think I can probably do any kind... let's... start with the
-    sandwiches though..
+  defaultText: 'I''m having the most fun! And I''m sure it would go just fine! I
+    have been riding waves for just about my entire life so.... I''d like to think
+    I can probably pull it off!  let''s... start with the sandwiches though! If you
+    don''t eat first, you''ll end up eating sand! '
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
@@ -46,8 +47,7 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: I don't think good things tend to come when you try and think about
-      them though...
+  - optionText: It would probably be pretty funny to watch you crash out hard.
     nextNode: {fileID: 0}
     choiceTrigger:
       text: I don't think good things tend to come when you try and think about them

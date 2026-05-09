@@ -13,16 +13,16 @@ MonoBehaviour:
   m_Name: Nervous
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
   defaultText: O-oh... uh... that... could be... n-nice.... oh god... I... I can't...
-    even think... wh-where... is.. that Tylenol...
+    even think... straight... right now... with you teasing me...
   conditionalTexts: []
   locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:
-  - optionText: 
-    nextNode: {fileID: 0}
+  - optionText: Has anyone ever told you you're adorable when you can't think?
+    nextNode: {fileID: 11400000, guid: d5764de576841c946958e3f9b835cf74, type: 2}
     choiceTrigger:
-      text: 
+      text: Has anyone ever told you you're adorable when you can't think?
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -31,10 +31,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
-    nextNode: {fileID: 0}
+  - optionText: That doesn't particularly sound like a complaint... does that mean
+      you want me to keep teasing?
+    nextNode: {fileID: 11400000, guid: bf91a9d0e2c52be49a095df661bb1d2f, type: 2}
     choiceTrigger:
-      text: 
+      text: That doesn't particularly sound like a complete... does that mean you
+        want me to keep teasing?
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -43,10 +45,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
-    nextNode: {fileID: 0}
+  - optionText: You say that like you've ever been able to think straight...
+    nextNode: {fileID: 11400000, guid: 8ec66f7059528c34f98f6496c6c6d0e8, type: 2}
     choiceTrigger:
-      text: 
+      text: You say that like you've ever been able to think straight...
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -55,10 +57,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 
+  - optionText: Sorry! So how's your head feeling?
     nextNode: {fileID: 11400000, guid: 5c6f155a6ef760c4daaddd19ead79bfa, type: 2}
     choiceTrigger:
-      text: 
+      text: Sorry! So how's your head feeling?
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0

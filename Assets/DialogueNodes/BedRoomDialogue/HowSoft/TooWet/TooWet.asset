@@ -19,22 +19,26 @@ MonoBehaviour:
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 'Perfect! Then why don''t we hop on in to bed and test that out? '
+  - optionText: 'Perfect! Well then if you want, you could just hop into the bed
+      and test how soft it is! '
     nextNode: {fileID: 11400000, guid: 30b673d51d79fe142848577eaf772f56, type: 2}
     choiceTrigger:
-      text: 'Perfect! Then why don''t we hop on in to bed and test that out? '
+      text: 'Perfect! Well then if you want, you could just hop into the bed and
+        test how soft it is! '
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag: BedroomIntro
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Maybe next time you should just leave all your suits at the door...
+  - optionText: Maybe for next time, I'll have to set aside some room in my closet
+      just for your stuff...
     nextNode: {fileID: 11400000, guid: c15a7706ebc11534f9a8aa80a15663a4, type: 2}
     choiceTrigger:
-      text: Maybe next time you should just leave all your suits at the door...
+      text: Maybe for next time, I'll have to set aside some room in my closet just
+        for your stuff...
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0

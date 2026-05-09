@@ -10,21 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
-  m_Name: BeingDifficult
+  m_Name: Mean
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 'Difficult?! That''s easy to say when you aren''t the one who''s head
-    is pounding! If you''re not here to help me find the medicine, then maybe you
-    should just leave! '
+  defaultText: That's... so mean! I... I think plenty fine most of the time! It's
+    just so hard for me to concentrate! Can you stop being a jerk and just help me
+    find these meds?!
   conditionalTexts: []
   locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
   playerSprite: {fileID: -1034332879, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: -149523113, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:
-  - optionText: I'm sorry... I didn't realize it had gotten so bad! Let me help you
-      find those meds!
+  - optionText: Sorry... I find it adorable when you get all nervous but... that
+      wasn't the best way to say it...
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: Sorry... I find it adorable when you get all nervous but... that wasn't
+        the best way to say it...
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0
@@ -33,10 +34,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 'Jeez bro, you don''t need to freak out so hard, it''s not that deep! '
+  - optionText: And yet I find that incredibly hard to believe...
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: And yet I find that incredibly hard to believe...
       requiredItem: {fileID: 0}
       setsFlag: BathroomIntro
       changesPhase: 0

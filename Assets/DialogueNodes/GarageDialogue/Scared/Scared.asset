@@ -15,7 +15,7 @@ MonoBehaviour:
   defaultText: Oh! Uh..... w-well... I'll... uh... be sure to keep that... in mind...
     y-you are... pretty strong...
   conditionalTexts: []
-  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  locationImage: {fileID: 8223305577009396306, guid: a3bda1da32945f149ac930f7c3cff4e1, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
   options:
@@ -43,10 +43,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: A hell of a lot stronger than your bitch ass that's for sure
+  - optionText: A hell of a lot stronger than a weakling like you that's for sure
     nextNode: {fileID: 11400000, guid: e27c41812e672de44aa5a2905fccf3e7, type: 2}
     choiceTrigger:
-      text: A hell of a lot stronger than your bitch ass that's for sure
+      text: A hell of a lot stronger than a weakling like you that's for sure
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0

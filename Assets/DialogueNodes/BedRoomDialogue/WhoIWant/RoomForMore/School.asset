@@ -12,16 +12,56 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: School
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 
+  defaultText: 'Haha, that could be fun! I''d teach you everything you could ever
+    need to know about marine life! It would be a blast! But that''s gonna have to
+    wait until after we find these blankets! '
   conditionalTexts: []
   locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 
+  - optionText: Honestly yeah it would! I'm definitely looking forward to it!
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text: Honestly yeah it would! I'm definitely looking forward to it!
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: If it means spending more time with you, then I don't care what we
+      get up to!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: If it means spending more time with you, then I don't care what we get
+        up to!
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Like you'd be able to teach anything...
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Like you'd be able to teach anything...
+      requiredItem: {fileID: 0}
+      setsFlag: BedroomIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Sounds fun! Let's find those blankets!
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: Honestly yeah it would! I'm definitely looking forward to it!
       requiredItem: {fileID: 0}
       setsFlag: BedroomIntro
       changesPhase: 0

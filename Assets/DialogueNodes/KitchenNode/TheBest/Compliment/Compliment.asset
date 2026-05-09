@@ -19,9 +19,42 @@ MonoBehaviour:
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
+<<<<<<< Updated upstream
   - optionText: So you can compliment me then? And here I thought I'd have to work
       harder for your affection...
     nextNode: {fileID: 11400000, guid: 8875828ef1c437d468ebffefadb7f064, type: 2}
+=======
+  - optionText: Can't say I have... though I'd be happy to go wherever you go, just
+      as long as I can be with you...
+    nextNode: {fileID: 11400000, guid: fc05d00c705e71f439416c8e3d211b50, type: 2}
+    choiceTrigger:
+      text: Can't say I have... though I'd be happy to go wherever you go, just as
+        long as I can be with you...
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'It''s very possible, and it''s true! You''re the hottest guy I know,
+      so just take the compliment! '
+    nextNode: {fileID: 11400000, guid: 8875828ef1c437d468ebffefadb7f064, type: 2}
+    choiceTrigger:
+      text: 'It''s very possible, and it''s true! You''re the hottest guy I know,
+        so just take the compliment! '
+      requiredItem: {fileID: 0}
+      setsFlag: 
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: 'You''re right... I guess I am kinda out of your league huh? '
+    nextNode: {fileID: 11400000, guid: 1c2c05663c48d284198a83b5e15547db, type: 2}
+>>>>>>> Stashed changes
     choiceTrigger:
       text: So you can compliment me then? And here I thought I'd have to work harder
         for your affection...
@@ -33,6 +66,7 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
+<<<<<<< Updated upstream
   - optionText: Definitely not... I don't intend to go anywhere unless it's where
       you're going
     nextNode: {fileID: 11400000, guid: fc05d00c705e71f439416c8e3d211b50, type: 2}
@@ -60,6 +94,9 @@ MonoBehaviour:
     usePhaseRequirement: 0
     requiredPhase: 0
   - optionText: 'Awww you''re too sweet! Ready to make those sandwiches now? '
+=======
+  - optionText: Haha thanks! Anywho, you ready to make those sandwiches?
+>>>>>>> Stashed changes
     nextNode: {fileID: 11400000, guid: 5c008127f0dd48145990a99ef96ecd6d, type: 2}
     choiceTrigger:
       text: 

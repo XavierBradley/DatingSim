@@ -33,10 +33,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: I hope the vibes aren't the only thing that will be getting rid tonight...
+  - optionText: 'I know I''m loving riding the vibes with you! '
     nextNode: {fileID: 11400000, guid: fbae74cf43368804ca52b3f1618ed448, type: 2}
     choiceTrigger:
-      text: I hope the vibes aren't the only thing that will be getting rid tonight...
+      text: 'I know I''m loving riding the vibes with you! '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0

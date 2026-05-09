@@ -17,8 +17,8 @@ MonoBehaviour:
     you would is... oh to find blankets! Like we need to do now!  '
   conditionalTexts: []
   locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
-  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  playerSprite: {fileID: -1034332879, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
+  npcSprite: {fileID: 836729182306382076, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
   - optionText: Sorry... I meant that as more like... what a shame that you're all
       alone! But... yeah, let's just find the blankets and move on.

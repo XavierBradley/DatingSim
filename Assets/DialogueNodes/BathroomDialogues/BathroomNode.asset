@@ -82,7 +82,7 @@ MonoBehaviour:
   - optionText: Right! Sorry, let me get back to looking!
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Awesome! Sorry, I just need to step away for a moment.
+      text: Right! Sorry, let me get back to looking!
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -105,10 +105,14 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
+<<<<<<< Updated upstream
   - optionText: '********Make it midgame********'
+=======
+  - optionText: '*******Make it midgame******'
+>>>>>>> Stashed changes
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Awesome! Sorry, I just need to step away for a moment.
+      text: Make it midgame
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 1

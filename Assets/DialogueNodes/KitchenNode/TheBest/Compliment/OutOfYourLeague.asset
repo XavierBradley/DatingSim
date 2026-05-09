@@ -12,16 +12,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: OutOfYourLeague
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+<<<<<<< Updated upstream
   defaultText: You've cod to be kidding me?! How are you going to just compliment
     me then do a full 180?! That's more killer than a whale dude... at least the
     sandwiches won't play with my feelings..
+=======
+  defaultText: Dang bro, you're hurting my fEELings! I thought we had a good thing
+    going.... I guess let's just make the sandwiches then...
+>>>>>>> Stashed changes
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
+<<<<<<< Updated upstream
   - optionText: Sorry... I don't know why I thought that would be funny... let me
       make you a sandwich as an apology!
+=======
+  - optionText: 'I''m so sorry! That was meant to be like... a playful joke! Bad
+      joke I guess... '
+    nextNode: {fileID: 0}
+    choiceTrigger:
+      text: 
+      requiredItem: {fileID: 0}
+      setsFlag: KitchenIntro
+      changesPhase: 0
+      newPhase: 0
+    requiredFlags: []
+    blockedFlags: []
+    usePhaseRequirement: 0
+    requiredPhase: 0
+  - optionText: Yeah, let's do that
+>>>>>>> Stashed changes
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Sorry... I don't know why I thought that would be funny... let me make

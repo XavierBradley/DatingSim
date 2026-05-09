@@ -31,7 +31,8 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: You're not the only one that swells up when we're together...
+  - optionText: 'Aww, I feel all bubbly and happy too! I always swell up with joy
+      whenever I see you! '
     nextNode: {fileID: 11400000, guid: 23142e6c0fbce2c4d8e9454595ce822a, type: 2}
     choiceTrigger:
       text: You're not the only one that swells up when we're together...
