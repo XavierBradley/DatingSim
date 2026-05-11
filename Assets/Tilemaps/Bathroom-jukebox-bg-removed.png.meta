@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ea2e0d252a45bb548ae8410cc5a15922
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4493296713886145248
+    second: Bathroom-jukebox-bg-removed_0
+  - first:
+      213: -9039428055719050685
+    second: Bathroom-jukebox-bg-removed_1
+  - first:
+      213: -1997415360361268119
+    second: Bathroom-jukebox-bg-removed_2
+  - first:
+      213: 4911089874661154633
+    second: Bathroom-jukebox-bg-removed_3
+  - first:
+      213: 2209869968744710607
+    second: Bathroom-jukebox-bg-removed_4
+  - first:
+      213: -6650040251741806951
+    second: Bathroom-jukebox-bg-removed_5
+  - first:
+      213: 5115827353774380882
+    second: Bathroom-jukebox-bg-removed_6
+  - first:
+      213: 377380117330970861
+    second: Bathroom-jukebox-bg-removed_7
+  - first:
+      213: -1610609540311439333
+    second: Bathroom-jukebox-bg-removed_8
+  - first:
+      213: 3529482122995984116
+    second: Bathroom-jukebox-bg-removed_9
+  - first:
+      213: 5294279261003912823
+    second: Bathroom-jukebox-bg-removed_10
+  - first:
+      213: -8691261000065986497
+    second: Bathroom-jukebox-bg-removed_11
+  - first:
+      213: 3177988049430157056
+    second: Bathroom-jukebox-bg-removed_12
+  - first:
+      213: -6832922205463098481
+    second: Bathroom-jukebox-bg-removed_13
+  - first:
+      213: 4954579836406086788
+    second: Bathroom-jukebox-bg-removed_14
+  - first:
+      213: 5562566645357932920
+    second: Bathroom-jukebox-bg-removed_15
+  - first:
+      213: 8030193537407347021
+    second: Bathroom-jukebox-bg-removed_16
+  - first:
+      213: -3087069497910709341
+    second: Bathroom-jukebox-bg-removed_17
+  - first:
+      213: 3896665190696799643
+    second: Bathroom-jukebox-bg-removed_18
+  - first:
+      213: -425280884402177401
+    second: Bathroom-jukebox-bg-removed_19
+  - first:
+      213: 8440352421335299301
+    second: Bathroom-jukebox-bg-removed_20
+  - first:
+      213: -148037503527451148
+    second: Bathroom-jukebox-bg-removed_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 836
+        width: 302
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea1d950e856b5e30800000000000000
+      internalID: 4493296713886145248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 835
+        width: 184
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3428a2683108d8280800000000000000
+      internalID: -9039428055719050685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 821
+        width: 132
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cf1c00051c744e0800000000000000
+      internalID: -1997415360361268119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 815
+        width: 198
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f123f8832b72440800000000000000
+      internalID: 4911089874661154633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 823
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc105d637090bae10800000000000000
+      internalID: 2209869968744710607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 305
+        width: 157
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e51ecdf9f46b3a0800000000000000
+      internalID: -6650040251741806951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 541
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d2f99fd11ff640800000000000000
+      internalID: 5115827353774380882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 547
+        width: 202
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8cece9739bc3500800000000000000
+      internalID: 377380117330970861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 537
+        width: 143
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a1ed0827f5a9e0800000000000000
+      internalID: -1610609540311439333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 599
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f664467a4d3bf030800000000000000
+      internalID: 3529482122995984116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 517
+        width: 117
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7761bd500fe097940800000000000000
+      internalID: 5294279261003912823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 311
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f305cd03b20726780800000000000000
+      internalID: -8691261000065986497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 312
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00798b21b4b7a1c20800000000000000
+      internalID: 3177988049430157056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 307
+        width: 246
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b4e7dd4759c21a0800000000000000
+      internalID: -6832922205463098481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 311
+        width: 118
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c3c485c1432c440800000000000000
+      internalID: 4954579836406086788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 100
+        width: 168
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871fef764e4323d40800000000000000
+      internalID: 5562566645357932920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 100
+        width: 139
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496dcaf97af07f60800000000000000
+      internalID: 8030193537407347021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 100
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3b61cc5a68825d0800000000000000
+      internalID: -3087069497910709341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_18
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 101
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dcc14785cb31630800000000000000
+      internalID: 3896665190696799643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_19
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 104
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab173f949191af0800000000000000
+      internalID: -425280884402177401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_20
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 100
+        width: 59
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e47ccceec7222570800000000000000
+      internalID: 8440352421335299301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-jukebox-bg-removed_21
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 100
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58fc4cca012fdf0800000000000000
+      internalID: -148037503527451148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bathroom-jukebox-bg-removed_0: 4493296713886145248
+      Bathroom-jukebox-bg-removed_1: -9039428055719050685
+      Bathroom-jukebox-bg-removed_10: 5294279261003912823
+      Bathroom-jukebox-bg-removed_11: -8691261000065986497
+      Bathroom-jukebox-bg-removed_12: 3177988049430157056
+      Bathroom-jukebox-bg-removed_13: -6832922205463098481
+      Bathroom-jukebox-bg-removed_14: 4954579836406086788
+      Bathroom-jukebox-bg-removed_15: 5562566645357932920
+      Bathroom-jukebox-bg-removed_16: 8030193537407347021
+      Bathroom-jukebox-bg-removed_17: -3087069497910709341
+      Bathroom-jukebox-bg-removed_18: 3896665190696799643
+      Bathroom-jukebox-bg-removed_19: -425280884402177401
+      Bathroom-jukebox-bg-removed_2: -1997415360361268119
+      Bathroom-jukebox-bg-removed_20: 8440352421335299301
+      Bathroom-jukebox-bg-removed_21: -148037503527451148
+      Bathroom-jukebox-bg-removed_3: 4911089874661154633
+      Bathroom-jukebox-bg-removed_4: 2209869968744710607
+      Bathroom-jukebox-bg-removed_5: -6650040251741806951
+      Bathroom-jukebox-bg-removed_6: 5115827353774380882
+      Bathroom-jukebox-bg-removed_7: 377380117330970861
+      Bathroom-jukebox-bg-removed_8: -1610609540311439333
+      Bathroom-jukebox-bg-removed_9: 3529482122995984116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,33 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: Kiss
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-<<<<<<< Updated upstream
-  defaultText: 'Oh! Careful now, you''ll make me blush redder than a lobster... I
-    suppose we can work that out as payment... but first we need to actually make
-    the sandwiches! '
-=======
-  defaultText: 'Oh! I think I could manage that.... But you gotta give me a sec to
-    prepare! I want it to be a good one... and right now all I can think about is
-    how bad I need to eat! '
->>>>>>> Stashed changes
+  defaultText: 'Oh! Careful now, you''ll make me blush redder than a lobster... I suppose we can work that out as payment... but first we need to actually make the sandwiches! '
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-<<<<<<< Updated upstream
   - optionText: Good! Then I look forward to my payment... let's get cooking!
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Good! Then I look forward to my payment... let's get cooking!
-=======
-  - optionText: You can have as much time as you need... I'm sure it'll be perfect
-      no matter what!
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: You can have as much time as you need... I'm sure it'll be perfect no
-        matter what!
->>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -47,21 +30,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
-  - optionText: Well now I just need to keep thinking of ways to make you blush...
-      maybe I should make your sandwich extra spicy!
+  - optionText: I'm glad you can manage it... because I've been thinking about kissing you all night! What a shame these sandwiches have to be top priority...
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Well now I just need to keep thinking of ways to make you blush... maybe
-        I should make your sandwich extra spicy!
-=======
-  - optionText: I'm glad you can manage it... because I've been thinking about kissing
-      you all night! What a shame these sandwiches have to be top priority...
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: I'm glad you can manage it... because I've been thinking about kissing
-        you all night! What a shame these sandwiches have to be top priority...
->>>>>>> Stashed changes
+      text: I'm glad you can manage it... because I've been thinking about kissing you all night! What a shame these sandwiches have to be top priority...
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -70,19 +42,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
-  - optionText: 'You just had to put the ugly image of a lobster in my head, didn''t
-      you? '
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: 'You just had to put the ugly image of a lobster in my head, didn''t
-        you? '
-=======
   - optionText: If you need to prepare for a kiss, then maybe we should forget it
     nextNode: {fileID: 0}
     choiceTrigger:
       text: If you need to prepare for a kiss, then maybe we should forget it
->>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -91,14 +54,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
   - optionText: Love it! Let's make some sandwiches!
-=======
-  - optionText: 'Awesome! Let''s get cooking! '
->>>>>>> Stashed changes
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 'Awesome! Let''s get cooking! '
+      text: Love it! Let's make some sandwiches!
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0

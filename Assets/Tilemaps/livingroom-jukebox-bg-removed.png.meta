@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: efbb8836e4dd7134da220e5f2b5ecd86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4553775525579122495
+    second: livingroom-jukebox-bg-removed_0
+  - first:
+      213: 259181142462065870
+    second: livingroom-jukebox-bg-removed_1
+  - first:
+      213: -1240771423734173455
+    second: livingroom-jukebox-bg-removed_2
+  - first:
+      213: 8221456072477450968
+    second: livingroom-jukebox-bg-removed_3
+  - first:
+      213: 623529896262048416
+    second: livingroom-jukebox-bg-removed_4
+  - first:
+      213: 7080786839886984430
+    second: livingroom-jukebox-bg-removed_5
+  - first:
+      213: -4717521244023989162
+    second: livingroom-jukebox-bg-removed_6
+  - first:
+      213: -9171407416174455600
+    second: livingroom-jukebox-bg-removed_7
+  - first:
+      213: -2264069683968900068
+    second: livingroom-jukebox-bg-removed_8
+  - first:
+      213: -8295803574683074905
+    second: livingroom-jukebox-bg-removed_9
+  - first:
+      213: -4398020017521198833
+    second: livingroom-jukebox-bg-removed_10
+  - first:
+      213: 6190287916156655671
+    second: livingroom-jukebox-bg-removed_11
+  - first:
+      213: 7054387279064116202
+    second: livingroom-jukebox-bg-removed_12
+  - first:
+      213: -6614843091271219352
+    second: livingroom-jukebox-bg-removed_13
+  - first:
+      213: -1742420225733761473
+    second: livingroom-jukebox-bg-removed_14
+  - first:
+      213: -193388583802967845
+    second: livingroom-jukebox-bg-removed_15
+  - first:
+      213: -5122517523730775559
+    second: livingroom-jukebox-bg-removed_16
+  - first:
+      213: 5908491642613869437
+    second: livingroom-jukebox-bg-removed_17
+  - first:
+      213: 7634277169705686589
+    second: livingroom-jukebox-bg-removed_18
+  - first:
+      213: 5183511624619959126
+    second: livingroom-jukebox-bg-removed_19
+  - first:
+      213: 480992617679269327
+    second: livingroom-jukebox-bg-removed_20
+  - first:
+      213: -5935732416635004648
+    second: livingroom-jukebox-bg-removed_21
+  - first:
+      213: 2092964922646995649
+    second: livingroom-jukebox-bg-removed_22
+  - first:
+      213: -1258024996698614999
+    second: livingroom-jukebox-bg-removed_23
+  - first:
+      213: -7973592263955643281
+    second: livingroom-jukebox-bg-removed_24
+  - first:
+      213: -5366445600780065589
+    second: livingroom-jukebox-bg-removed_25
+  - first:
+      213: -5388242463769654421
+    second: livingroom-jukebox-bg-removed_26
+  - first:
+      213: 932213709684262863
+    second: livingroom-jukebox-bg-removed_27
+  - first:
+      213: -4904156816715052447
+    second: livingroom-jukebox-bg-removed_28
+  - first:
+      213: 7429275533787210383
+    second: livingroom-jukebox-bg-removed_29
+  - first:
+      213: 9108976761108902648
+    second: livingroom-jukebox-bg-removed_30
+  - first:
+      213: 5784553967407309672
+    second: livingroom-jukebox-bg-removed_31
+  - first:
+      213: -7474960364805919248
+    second: livingroom-jukebox-bg-removed_32
+  - first:
+      213: -8679948716148261470
+    second: livingroom-jukebox-bg-removed_33
+  - first:
+      213: 2881792213576414037
+    second: livingroom-jukebox-bg-removed_34
+  - first:
+      213: 7285751814716521334
+    second: livingroom-jukebox-bg-removed_35
+  - first:
+      213: -6559429649205888085
+    second: livingroom-jukebox-bg-removed_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 999
+        width: 332
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c81df2594dbdc0c0800000000000000
+      internalID: -4553775525579122495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 999
+        width: 164
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc6ee830ebc89300800000000000000
+      internalID: 259181142462065870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1001
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07ed8c6f4e7cee0800000000000000
+      internalID: -1240771423734173455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 999
+        width: 306
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22f702dba781270800000000000000
+      internalID: 8221456072477450968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 785
+        width: 287
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa1985132937a800800000000000000
+      internalID: 623529896262048416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 797
+        width: 119
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee479b18d12044260800000000000000
+      internalID: 7080786839886984430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 789
+        width: 111
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c579d4c6ff78eb0800000000000000
+      internalID: -4717521244023989162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d9841c8d98b080800000000000000
+      internalID: -9171407416174455600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 787
+        width: 85
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c148d443e986490e0800000000000000
+      internalID: -2264069683968900068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 800
+        width: 81
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae79941a926fdc80800000000000000
+      internalID: -8295803574683074905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 506
+        width: 202
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f097794881817f2c0800000000000000
+      internalID: -4398020017521198833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 519
+        width: 221
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73819ebef0258e550800000000000000
+      internalID: 6190287916156655671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 518
+        width: 249
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba6a4cad736e160800000000000000
+      internalID: 7054387279064116202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 526
+        width: 111
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86705d3614b5334a0800000000000000
+      internalID: -6614843091271219352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 529
+        width: 138
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36eea3590ea1d7e0800000000000000
+      internalID: -1742420225733761473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 417
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8eece8b12f05df0800000000000000
+      internalID: -193388583802967845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 305
+        width: 238
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f14052d37929e8b0800000000000000
+      internalID: -5122517523730775559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 293
+        width: 165
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b2d5c28dd2ff150800000000000000
+      internalID: 5908491642613869437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 384
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d369e2143a662f960800000000000000
+      internalID: 7634277169705686589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 303
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653a492fb588fe740800000000000000
+      internalID: 5183511624619959126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 183
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdab54cc34dca600800000000000000
+      internalID: 480992617679269327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 186
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81913b0e0da00ada0800000000000000
+      internalID: -5935732416635004648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 187
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22ab51284bb0d10800000000000000
+      internalID: 2092964922646995649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 184
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92397394ee89a8ee0800000000000000
+      internalID: -1258024996698614999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 189
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f640f13f41c185190800000000000000
+      internalID: -7973592263955643281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 187
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4eb03a82e8685b0800000000000000
+      internalID: -5366445600780065589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 187
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b855ff60e1935b0800000000000000
+      internalID: -5388242463769654421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 187
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ca7c0e63efec00800000000000000
+      internalID: 932213709684262863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 183
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a83e8cb5fe0fbb0800000000000000
+      internalID: -4904156816715052447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8223e96cb61a1760800000000000000
+      internalID: 7429275533787210383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 50
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23f215a16996e70800000000000000
+      internalID: 9108976761108902648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 53
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863a36b7f2dd64050800000000000000
+      internalID: 5784553967407309672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 53
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd6e99f62b934890800000000000000
+      internalID: -7474960364805919248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_33
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 53
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adff5981a0aa8780800000000000000
+      internalID: -8679948716148261470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_34
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 56
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55375b6ffbe2ef720800000000000000
+      internalID: 2881792213576414037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 50
+        width: 45
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bf5d58ca03c1560800000000000000
+      internalID: 7285751814716521334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livingroom-jukebox-bg-removed_36
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 49
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babfae5cc7938f4a0800000000000000
+      internalID: -6559429649205888085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      livingroom-jukebox-bg-removed_0: -4553775525579122495
+      livingroom-jukebox-bg-removed_1: 259181142462065870
+      livingroom-jukebox-bg-removed_10: -4398020017521198833
+      livingroom-jukebox-bg-removed_11: 6190287916156655671
+      livingroom-jukebox-bg-removed_12: 7054387279064116202
+      livingroom-jukebox-bg-removed_13: -6614843091271219352
+      livingroom-jukebox-bg-removed_14: -1742420225733761473
+      livingroom-jukebox-bg-removed_15: -193388583802967845
+      livingroom-jukebox-bg-removed_16: -5122517523730775559
+      livingroom-jukebox-bg-removed_17: 5908491642613869437
+      livingroom-jukebox-bg-removed_18: 7634277169705686589
+      livingroom-jukebox-bg-removed_19: 5183511624619959126
+      livingroom-jukebox-bg-removed_2: -1240771423734173455
+      livingroom-jukebox-bg-removed_20: 480992617679269327
+      livingroom-jukebox-bg-removed_21: -5935732416635004648
+      livingroom-jukebox-bg-removed_22: 2092964922646995649
+      livingroom-jukebox-bg-removed_23: -1258024996698614999
+      livingroom-jukebox-bg-removed_24: -7973592263955643281
+      livingroom-jukebox-bg-removed_25: -5366445600780065589
+      livingroom-jukebox-bg-removed_26: -5388242463769654421
+      livingroom-jukebox-bg-removed_27: 932213709684262863
+      livingroom-jukebox-bg-removed_28: -4904156816715052447
+      livingroom-jukebox-bg-removed_29: 7429275533787210383
+      livingroom-jukebox-bg-removed_3: 8221456072477450968
+      livingroom-jukebox-bg-removed_30: 9108976761108902648
+      livingroom-jukebox-bg-removed_31: 5784553967407309672
+      livingroom-jukebox-bg-removed_32: -7474960364805919248
+      livingroom-jukebox-bg-removed_33: -8679948716148261470
+      livingroom-jukebox-bg-removed_34: 2881792213576414037
+      livingroom-jukebox-bg-removed_35: 7285751814716521334
+      livingroom-jukebox-bg-removed_36: -6559429649205888085
+      livingroom-jukebox-bg-removed_4: 623529896262048416
+      livingroom-jukebox-bg-removed_5: 7080786839886984430
+      livingroom-jukebox-bg-removed_6: -4717521244023989162
+      livingroom-jukebox-bg-removed_7: -9171407416174455600
+      livingroom-jukebox-bg-removed_8: -2264069683968900068
+      livingroom-jukebox-bg-removed_9: -8295803574683074905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 4a4d78b523281be4181afb31673e9d02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7434022537188215757
+    second: hallway-jukebox-bg-removed_0
+  - first:
+      213: 6283653561923764580
+    second: hallway-jukebox-bg-removed_1
+  - first:
+      213: -1424731258476477769
+    second: hallway-jukebox-bg-removed_2
+  - first:
+      213: 6811541330534989974
+    second: hallway-jukebox-bg-removed_3
+  - first:
+      213: -5682515133126606892
+    second: hallway-jukebox-bg-removed_4
+  - first:
+      213: -8850751605831186803
+    second: hallway-jukebox-bg-removed_5
+  - first:
+      213: 6684938333332975409
+    second: hallway-jukebox-bg-removed_6
+  - first:
+      213: 5289016143167337950
+    second: hallway-jukebox-bg-removed_7
+  - first:
+      213: 2956940833710624455
+    second: hallway-jukebox-bg-removed_8
+  - first:
+      213: 3781820793972036837
+    second: hallway-jukebox-bg-removed_9
+  - first:
+      213: 2588543693501535772
+    second: hallway-jukebox-bg-removed_10
+  - first:
+      213: -388800586372267391
+    second: hallway-jukebox-bg-removed_11
+  - first:
+      213: 6819165213445983869
+    second: hallway-jukebox-bg-removed_12
+  - first:
+      213: 7309288142617720361
+    second: hallway-jukebox-bg-removed_13
+  - first:
+      213: -186386836249873348
+    second: hallway-jukebox-bg-removed_14
+  - first:
+      213: 499568802500714778
+    second: hallway-jukebox-bg-removed_15
+  - first:
+      213: -4774454309487835703
+    second: hallway-jukebox-bg-removed_16
+  - first:
+      213: 4653359292157105872
+    second: hallway-jukebox-bg-removed_17
+  - first:
+      213: -1239763608573933394
+    second: hallway-jukebox-bg-removed_18
+  - first:
+      213: -5163666112230124761
+    second: hallway-jukebox-bg-removed_19
+  - first:
+      213: 8214443716034578417
+    second: hallway-jukebox-bg-removed_20
+  - first:
+      213: 6638428094481119403
+    second: hallway-jukebox-bg-removed_21
+  - first:
+      213: -3524860379347518246
+    second: hallway-jukebox-bg-removed_22
+  - first:
+      213: 6692715860672852160
+    second: hallway-jukebox-bg-removed_23
+  - first:
+      213: -510997879740757270
+    second: hallway-jukebox-bg-removed_24
+  - first:
+      213: 5223307644111163945
+    second: hallway-jukebox-bg-removed_25
+  - first:
+      213: -7321195797500242208
+    second: hallway-jukebox-bg-removed_26
+  - first:
+      213: -4834372743265402056
+    second: hallway-jukebox-bg-removed_27
+  - first:
+      213: -7274031014501094403
+    second: hallway-jukebox-bg-removed_28
+  - first:
+      213: -1860593652599454816
+    second: hallway-jukebox-bg-removed_29
+  - first:
+      213: -5639464707905912769
+    second: hallway-jukebox-bg-removed_30
+  - first:
+      213: 6454760925637113470
+    second: hallway-jukebox-bg-removed_31
+  - first:
+      213: -9024370137269574380
+    second: hallway-jukebox-bg-removed_32
+  - first:
+      213: -5845121504140010885
+    second: hallway-jukebox-bg-removed_33
+  - first:
+      213: -7182542065518450222
+    second: hallway-jukebox-bg-removed_34
+  - first:
+      213: -6192596655117913724
+    second: hallway-jukebox-bg-removed_35
+  - first:
+      213: -1661831453194237915
+    second: hallway-jukebox-bg-removed_36
+  - first:
+      213: 97739738215863121
+    second: hallway-jukebox-bg-removed_37
+  - first:
+      213: -7379225824067273158
+    second: hallway-jukebox-bg-removed_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 827
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f5aab3eb05d890800000000000000
+      internalID: -7434022537188215757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 827
+        width: 218
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46185125f95043750800000000000000
+      internalID: 6283653561923764580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 827
+        width: 268
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b24d1e08765a3ce0800000000000000
+      internalID: -1424731258476477769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 827
+        width: 366
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6900e6340c4778e50800000000000000
+      internalID: 6811541330534989974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 679
+        width: 115
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dff43bf796a321b0800000000000000
+      internalID: -5682515133126606892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 705
+        width: 86
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86c63bce40db2580800000000000000
+      internalID: -8850751605831186803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 665
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f24bfeefba5cc50800000000000000
+      internalID: 6684938333332975409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 661
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5bbc8e82c566940800000000000000
+      internalID: 5289016143167337950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 662
+        width: 221
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce4b2f850a290920800000000000000
+      internalID: 2956940833710624455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 661
+        width: 343
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e493e4a9f9bb7430800000000000000
+      internalID: 3781820793972036837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 672
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169cb846ca5ce320800000000000000
+      internalID: 2588543693501535772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 483
+        width: 94
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18241d83de3ba9af0800000000000000
+      internalID: -388800586372267391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 505
+        width: 149
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0624d1aa82ae50800000000000000
+      internalID: 6819165213445983869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 503
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92634b5e6decf6560800000000000000
+      internalID: 7309288142617720361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 507
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c347482f822d96df0800000000000000
+      internalID: -186386836249873348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 493
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112ce5dd23dee600800000000000000
+      internalID: 499568802500714778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_16
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 494
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c505a60a1bbdbdb0800000000000000
+      internalID: -4774454309487835703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_17
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 494
+        width: 88
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d699452f9d049040800000000000000
+      internalID: 4653359292157105872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_18
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 491
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea88e7901997bcee0800000000000000
+      internalID: -1239763608573933394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_19
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 491
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7231dc97709f658b0800000000000000
+      internalID: -5163666112230124761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_20
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 491
+        width: 48
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f74ea9a9019ff170800000000000000
+      internalID: 8214443716034578417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 523
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba835861e2f602c50800000000000000
+      internalID: 6638428094481119403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 261
+        width: 77
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc7426192e251fc0800000000000000
+      internalID: -3524860379347518246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 99
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c03702ad9d41ec50800000000000000
+      internalID: 6692715860672852160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 268
+        width: 83
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0311c22298e8f0800000000000000
+      internalID: -510997879740757270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 259
+        width: 123
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92214d7c0aaec7840800000000000000
+      internalID: 5223307644111163945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e65ae62633e56a90800000000000000
+      internalID: -7321195797500242208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 276
+        width: 184
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c5d58a9bd8ecb0800000000000000
+      internalID: -4834372743265402056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 276
+        width: 102
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbec7fe4537d0b90800000000000000
+      internalID: -7274031014501094403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_29
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 274
+        width: 133
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a386794ee7dd26e0800000000000000
+      internalID: -1860593652599454816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_30
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 289
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f308ae13ab89cb1b0800000000000000
+      internalID: -5639464707905912769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 162
+        width: 485
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fba2fcdae39950800000000000000
+      internalID: 6454760925637113470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 155
+        width: 421
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415676e5c2ff2c280800000000000000
+      internalID: -9024370137269574380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 154
+        width: 530
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7adcb4f5f4f1eea0800000000000000
+      internalID: -5845121504140010885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 228
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e870db0c725c90800000000000000
+      internalID: -7182542065518450222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 37
+        width: 249
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481bc66e62a7f0aa0800000000000000
+      internalID: -6192596655117913724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_36
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 37
+        width: 239
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52849cb191dffe8e0800000000000000
+      internalID: -1661831453194237915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_37
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 31
+        width: 259
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153dbc826cd3b5100800000000000000
+      internalID: 97739738215863121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway-jukebox-bg-removed_38
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 38
+        width: 203
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb417b539b79990800000000000000
+      internalID: -7379225824067273158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hallway-jukebox-bg-removed_0: -7434022537188215757
+      hallway-jukebox-bg-removed_1: 6283653561923764580
+      hallway-jukebox-bg-removed_10: 2588543693501535772
+      hallway-jukebox-bg-removed_11: -388800586372267391
+      hallway-jukebox-bg-removed_12: 6819165213445983869
+      hallway-jukebox-bg-removed_13: 7309288142617720361
+      hallway-jukebox-bg-removed_14: -186386836249873348
+      hallway-jukebox-bg-removed_15: 499568802500714778
+      hallway-jukebox-bg-removed_16: -4774454309487835703
+      hallway-jukebox-bg-removed_17: 4653359292157105872
+      hallway-jukebox-bg-removed_18: -1239763608573933394
+      hallway-jukebox-bg-removed_19: -5163666112230124761
+      hallway-jukebox-bg-removed_2: -1424731258476477769
+      hallway-jukebox-bg-removed_20: 8214443716034578417
+      hallway-jukebox-bg-removed_21: 6638428094481119403
+      hallway-jukebox-bg-removed_22: -3524860379347518246
+      hallway-jukebox-bg-removed_23: 6692715860672852160
+      hallway-jukebox-bg-removed_24: -510997879740757270
+      hallway-jukebox-bg-removed_25: 5223307644111163945
+      hallway-jukebox-bg-removed_26: -7321195797500242208
+      hallway-jukebox-bg-removed_27: -4834372743265402056
+      hallway-jukebox-bg-removed_28: -7274031014501094403
+      hallway-jukebox-bg-removed_29: -1860593652599454816
+      hallway-jukebox-bg-removed_3: 6811541330534989974
+      hallway-jukebox-bg-removed_30: -5639464707905912769
+      hallway-jukebox-bg-removed_31: 6454760925637113470
+      hallway-jukebox-bg-removed_32: -9024370137269574380
+      hallway-jukebox-bg-removed_33: -5845121504140010885
+      hallway-jukebox-bg-removed_34: -7182542065518450222
+      hallway-jukebox-bg-removed_35: -6192596655117913724
+      hallway-jukebox-bg-removed_36: -1661831453194237915
+      hallway-jukebox-bg-removed_37: 97739738215863121
+      hallway-jukebox-bg-removed_38: -7379225824067273158
+      hallway-jukebox-bg-removed_4: -5682515133126606892
+      hallway-jukebox-bg-removed_5: -8850751605831186803
+      hallway-jukebox-bg-removed_6: 6684938333332975409
+      hallway-jukebox-bg-removed_7: 5289016143167337950
+      hallway-jukebox-bg-removed_8: 2956940833710624455
+      hallway-jukebox-bg-removed_9: 3781820793972036837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

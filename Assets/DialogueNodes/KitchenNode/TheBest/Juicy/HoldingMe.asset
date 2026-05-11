@@ -12,32 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: HoldingMe
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-<<<<<<< Updated upstream
-  defaultText: 'Well... I imagine that it would be rather to teach you to surf without
-    at least a little physical contact! But before we can work on your balance, we
-    need to make ourselves a balanced diet! '
-=======
-  defaultText: 'Oh! Well.... I mean... I do need to show you how to keep your balance!
-    So.... for sure! For now though, I think we should focus on making these sandwiches! '
->>>>>>> Stashed changes
+  defaultText: 'Well... I imagine that it would be rather to teach you to surf without at least a little physical contact! But before we can work on your balance, we need to make ourselves a balanced diet! '
   conditionalTexts: []
   locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-<<<<<<< Updated upstream
-  - optionText: Well now the lessons can't possibly come fast enough! Let's get these
-      sandwiches out of the way!
+  - optionText: Well now the lessons can't possibly come fast enough! Let's get these sandwiches out of the way!
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Well now the lessons can't possibly come fast enough! Let's get these
-        sandwiches out of the way!
-=======
-  - optionText: 'Perfect! I''m sure you''ll be able to keep me perfectly balanced! '
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: 'Perfect! I''m sure you''ll be able to keep me perfectly balanced! '
->>>>>>> Stashed changes
+      text: Well now the lessons can't possibly come fast enough! Let's get these sandwiches out of the way!
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -46,17 +30,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
-  - optionText: Hopefully we can make it more than just a little...
+  - optionText: 'Hopefully we can make it more than just a little...'
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Hopefully we can make it more than just a little...
-=======
-  - optionText: 'I''m looking forward to it with every fiber of my being! '
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: 'I''m looking forward to it with every fiber of my being! '
->>>>>>> Stashed changes
+      text: 'Hopefully we can make it more than just a little...'
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -65,21 +42,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
-  - optionText: Now that I think about it, I think the most balanced life for me
-      might be one that doesn't involve so much ocean...
+  - optionText: Now that I think about it, I think the most balanced life for me might be one that doesn't involve so much ocean...
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Now that I think about it, I think the most balanced life for me might
-        be one that doesn't involve so much ocean...
-=======
-  - optionText: Do you even know how to keep yourself balanced? You dragging me down
-      into the water doesn't sound like a good time
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: Do you even know how to keep yourself balanced? You dragging me down
-        into the water doesn't sound like a good time
->>>>>>> Stashed changes
+      text: Now that I think about it, I think the most balanced life for me might be one that doesn't involve so much ocean...
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0
@@ -88,17 +54,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
   - optionText: Amazing! Sandwich time it is then!
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Amazing! Sandwich time it is then!
-=======
-  - optionText: 'Oh hell yeah! Let''s cook up a storm! '
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: 'Oh hell yeah! Let''s cook up a storm! '
->>>>>>> Stashed changes
       requiredItem: {fileID: 0}
       setsFlag: KitchenIntro
       changesPhase: 0

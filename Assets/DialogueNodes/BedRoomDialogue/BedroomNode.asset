@@ -12,21 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: BedroomNode
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 'You otter see this dude, this bed is like, totally the softest I''ve
-    ever seen! It''s like a soft, pillowy beach!  '
+  defaultText: 'You otter see this dude, this bed is like, totally the softest I''ve ever seen! It''s like a soft, pillowy beach!  '
   conditionalTexts:
-  - text: Life is like riding a barrel; sometimes, you get swallowed by the foamball
-      and wipe out. But sometimes, you get the deepest pit of your life, and you
-      make it out after the spit. The crazy thing is, either way you get that full-on
-      greenroom vision, and either way you can get absolutely stoked. The key is
-      perspective. You gotta paddle out, you gotta drop in, and you gotta just genuinely
-<<<<<<< Updated upstream
-      get psyched no matter what life throws your way.... oh, didn't see you there
-      dude! Still just looking for the blankets!
-=======
-      get psyched no matter what life throws your way. Oh sorry! I was just talking
-      to myself... still looking for the blankets!
->>>>>>> Stashed changes
+  - text: Life is like riding a barrel; sometimes, you get swallowed by the foamball and wipe out. But sometimes, you get the deepest pit of your life, and you make it out after the spit. The crazy thing is, either way you get that full-on greenroom vision, and either way you can get absolutely stoked. The key is perspective. You gotta paddle out, you gotta drop in, and you gotta just genuinely get psyched no matter what life throws your way. Oh sorry! I was just talking to myself... still looking for the blankets!
     requiredFlags:
     - BedroomIntro
     blockedFlags: []
@@ -41,7 +29,7 @@ MonoBehaviour:
     choiceTrigger:
       text: The softest! Maybe we should test just how soft it is...
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
@@ -49,14 +37,12 @@ MonoBehaviour:
     - BedroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Is it? Guess I never thought about my bed so much as who I want to
-      be cuddling in it...
+  - optionText: Is it? Guess I never thought about my bed so much as who I want to be cuddling in it...
     nextNode: {fileID: 11400000, guid: e05bcdc64a36f6c45b4d725e113b7179, type: 2}
     choiceTrigger:
-      text: Is it? Guess I never thought about my bed so much as who I want to be
-        cuddling in it...
+      text: Is it? Guess I never thought about my bed so much as who I want to be cuddling in it...
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
@@ -69,7 +55,7 @@ MonoBehaviour:
     choiceTrigger:
       text: Kind of weird of you to be testing out my bed like that bro..
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
@@ -82,7 +68,7 @@ MonoBehaviour:
     choiceTrigger:
       text: Yeah! Have you found any blankets?
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
@@ -90,35 +76,24 @@ MonoBehaviour:
     - BedroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
   - optionText: '********Make it midgame********'
-=======
-  - optionText: '******Make it midgame******'
->>>>>>> Stashed changes
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text:
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 1
       newPhase: 1
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
   - optionText: Uh.... right.... best of luck with that!
     nextNode: {fileID: 0}
     choiceTrigger:
       text: Uh.... right.... best of luck with that!
-=======
-  - optionText: Uh... right... I am too...
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: Uh... right... I am too...
->>>>>>> Stashed changes
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 0
       newPhase: 0
     requiredFlags:
@@ -126,25 +101,14 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
-  - optionText: 'I''m still looking too! '
-    nextNode: {fileID: 0}
-    choiceTrigger:
-      text: 'I''m still looking too! '
-      requiredItem: {fileID: 0}
-      setsFlag: 
-      changesPhase: 0
-      newPhase: 0
-=======
   - optionText: I can see that! I'm sure we'll find it soon!
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: 
+      text:
       requiredItem: {fileID: 0}
-      setsFlag: 
+      setsFlag:
       changesPhase: 1
       newPhase: 1
->>>>>>> Stashed changes
     requiredFlags:
     - BedroomIntro
     blockedFlags: []

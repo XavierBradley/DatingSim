@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: BathroomNode
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 'Oh hey! I''m so glad you decided to come help me out! Now that it''s
-    just you and me, my headache is already starting to go down! '
+  defaultText: 'Oh hey! I''m so glad you decided to come help me out! Now that it''s just you and me, my headache is already starting to go down! '
   conditionalTexts:
   - text: Sorry, can't chat anymore... I really just need those meds!
     requiredFlags:
@@ -38,12 +37,10 @@ MonoBehaviour:
     - BathroomIntro
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Oh, so should we just keep staring into each others eyes until you're
-      completely better?
+  - optionText: Oh, so should we just keep staring into each others eyes until you're completely better?
     nextNode: {fileID: 11400000, guid: 6ef9a06b25dfd244992e239ac3baf227, type: 2}
     choiceTrigger:
-      text: Oh, so should we just keep staring into each others eyes until you're
-        completely better?
+      text: Oh, so should we just keep staring into each others eyes until you're completely better?
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -95,7 +92,7 @@ MonoBehaviour:
   - optionText: 'Can''t you go find it yourself? '
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Awesome! Sorry, I just need to step away for a moment.
+      text: 'Can''t you go find it yourself? '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -105,14 +102,10 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-<<<<<<< Updated upstream
-  - optionText: '********Make it midgame********'
-=======
   - optionText: '*******Make it midgame******'
->>>>>>> Stashed changes
     nextNode: {fileID: 0}
     choiceTrigger:
-      text: Make it midgame
+      text: 'Make it midgame'
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 1

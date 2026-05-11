@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: c5f61aa9e7f8e514f947d8767a07598f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5590446894989777784
+    second: Alex-jukebox-bg-removed_0
+  - first:
+      213: -2170550323514268178
+    second: Alex-jukebox-bg-removed_1
+  - first:
+      213: 2847160708851129489
+    second: Alex-jukebox-bg-removed_2
+  - first:
+      213: -9085555350077791600
+    second: Alex-jukebox-bg-removed_3
+  - first:
+      213: 1280184628781088323
+    second: Alex-jukebox-bg-removed_4
+  - first:
+      213: -2968233127429443000
+    second: Alex-jukebox-bg-removed_5
+  - first:
+      213: -2212049362987363253
+    second: Alex-jukebox-bg-removed_6
+  - first:
+      213: 354173063371618857
+    second: Alex-jukebox-bg-removed_7
+  - first:
+      213: -5271204726311114935
+    second: Alex-jukebox-bg-removed_8
+  - first:
+      213: -904640355656988855
+    second: Alex-jukebox-bg-removed_9
+  - first:
+      213: 5803501311092611919
+    second: Alex-jukebox-bg-removed_10
+  - first:
+      213: -443106905261509176
+    second: Alex-jukebox-bg-removed_11
+  - first:
+      213: -3861774904394243048
+    second: Alex-jukebox-bg-removed_12
+  - first:
+      213: -7820093083887333429
+    second: Alex-jukebox-bg-removed_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alex-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 1667
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e2702b2eba62b0800000000000000
+      internalID: -5590446894989777784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44490d9c7a3974744958ca544ced93f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alex-jukebox-bg-removed_0: -5590446894989777784
+      Alex-jukebox-bg-removed_1: -2170550323514268178
+      Alex-jukebox-bg-removed_10: 5803501311092611919
+      Alex-jukebox-bg-removed_11: -443106905261509176
+      Alex-jukebox-bg-removed_12: -3861774904394243048
+      Alex-jukebox-bg-removed_13: -7820093083887333429
+      Alex-jukebox-bg-removed_2: 2847160708851129489
+      Alex-jukebox-bg-removed_3: -9085555350077791600
+      Alex-jukebox-bg-removed_4: 1280184628781088323
+      Alex-jukebox-bg-removed_5: -2968233127429443000
+      Alex-jukebox-bg-removed_6: -2212049362987363253
+      Alex-jukebox-bg-removed_7: 354173063371618857
+      Alex-jukebox-bg-removed_8: -5271204726311114935
+      Alex-jukebox-bg-removed_9: -904640355656988855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

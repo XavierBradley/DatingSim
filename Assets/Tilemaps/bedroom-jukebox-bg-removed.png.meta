@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: d49044d298eadf9419b22baf1dafe979
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4088100477179230911
+    second: bedroom-jukebox-bg-removed_0
+  - first:
+      213: -4323119451500149213
+    second: bedroom-jukebox-bg-removed_1
+  - first:
+      213: 1832620539106949934
+    second: bedroom-jukebox-bg-removed_2
+  - first:
+      213: -7058903511822186857
+    second: bedroom-jukebox-bg-removed_3
+  - first:
+      213: 7407780317494164615
+    second: bedroom-jukebox-bg-removed_4
+  - first:
+      213: -8614040132039989875
+    second: bedroom-jukebox-bg-removed_5
+  - first:
+      213: -3079114881286710898
+    second: bedroom-jukebox-bg-removed_6
+  - first:
+      213: 2052176580290882605
+    second: bedroom-jukebox-bg-removed_7
+  - first:
+      213: 7330065970193532939
+    second: bedroom-jukebox-bg-removed_8
+  - first:
+      213: -5830460792253338237
+    second: bedroom-jukebox-bg-removed_9
+  - first:
+      213: 943392581921534195
+    second: bedroom-jukebox-bg-removed_10
+  - first:
+      213: 7273227270125923944
+    second: bedroom-jukebox-bg-removed_11
+  - first:
+      213: -5147658323859213183
+    second: bedroom-jukebox-bg-removed_12
+  - first:
+      213: 6623326240563192591
+    second: bedroom-jukebox-bg-removed_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 770
+        width: 296
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7f5c69b9dbb830800000000000000
+      internalID: 4088100477179230911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 818
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32680c383c13104c0800000000000000
+      internalID: -4323119451500149213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 837
+        width: 261
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bfd81bba6ce6910800000000000000
+      internalID: 1832620539106949934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 824
+        width: 213
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c41ad7acb90e90800000000000000
+      internalID: -7058903511822186857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 444
+        width: 136
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cbe5e53f8bdc660800000000000000
+      internalID: 7407780317494164615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 444
+        width: 133
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d852cc89328c47880800000000000000
+      internalID: -8614040132039989875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 432
+        width: 251
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89594e4459c445d0800000000000000
+      internalID: -3079114881286710898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 444
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c2d941abbca7c10800000000000000
+      internalID: 2052176580290882605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 450
+        width: 111
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08809dd920a9b560800000000000000
+      internalID: 7330065970193532939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 458
+        width: 101
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38da5e0fcca061fa0800000000000000
+      internalID: -5830460792253338237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 125
+        width: 237
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0fb211e8a971d00800000000000000
+      internalID: 943392581921534195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 148
+        width: 257
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e2a8ebaa1bfe460800000000000000
+      internalID: 7273227270125923944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 151
+        width: 139
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f9452708df88b0800000000000000
+      internalID: -5147658323859213183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 93
+        width: 356
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ea48bf18caeb50800000000000000
+      internalID: 6623326240563192591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bedroom-jukebox-bg-removed_0: 4088100477179230911
+      bedroom-jukebox-bg-removed_1: -4323119451500149213
+      bedroom-jukebox-bg-removed_10: 943392581921534195
+      bedroom-jukebox-bg-removed_11: 7273227270125923944
+      bedroom-jukebox-bg-removed_12: -5147658323859213183
+      bedroom-jukebox-bg-removed_13: 6623326240563192591
+      bedroom-jukebox-bg-removed_2: 1832620539106949934
+      bedroom-jukebox-bg-removed_3: -7058903511822186857
+      bedroom-jukebox-bg-removed_4: 7407780317494164615
+      bedroom-jukebox-bg-removed_5: -8614040132039989875
+      bedroom-jukebox-bg-removed_6: -3079114881286710898
+      bedroom-jukebox-bg-removed_7: 2052176580290882605
+      bedroom-jukebox-bg-removed_8: 7330065970193532939
+      bedroom-jukebox-bg-removed_9: -5830460792253338237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

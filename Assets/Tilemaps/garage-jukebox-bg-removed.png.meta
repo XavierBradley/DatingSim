@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 3f57b096b16271c4aae4e9431600663b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7061754094190259691
+    second: garage-jukebox-bg-removed_0
+  - first:
+      213: -8342046051650896412
+    second: garage-jukebox-bg-removed_1
+  - first:
+      213: -2784049964407035722
+    second: garage-jukebox-bg-removed_2
+  - first:
+      213: -8794993145107453460
+    second: garage-jukebox-bg-removed_3
+  - first:
+      213: 2360345695426868342
+    second: garage-jukebox-bg-removed_4
+  - first:
+      213: 8551770385386729120
+    second: garage-jukebox-bg-removed_5
+  - first:
+      213: -2410774358908660380
+    second: garage-jukebox-bg-removed_6
+  - first:
+      213: 2719038761554400219
+    second: garage-jukebox-bg-removed_7
+  - first:
+      213: -6818055565296055208
+    second: garage-jukebox-bg-removed_8
+  - first:
+      213: 8317106984990428750
+    second: garage-jukebox-bg-removed_9
+  - first:
+      213: -6024042458670239793
+    second: garage-jukebox-bg-removed_10
+  - first:
+      213: -5977816052114448757
+    second: garage-jukebox-bg-removed_11
+  - first:
+      213: 723278633256559314
+    second: garage-jukebox-bg-removed_12
+  - first:
+      213: -4254658359701773217
+    second: garage-jukebox-bg-removed_13
+  - first:
+      213: 5973781042629597293
+    second: garage-jukebox-bg-removed_14
+  - first:
+      213: -4182330366778163355
+    second: garage-jukebox-bg-removed_15
+  - first:
+      213: -2949456428643727818
+    second: garage-jukebox-bg-removed_16
+  - first:
+      213: 6173853850911168587
+    second: garage-jukebox-bg-removed_17
+  - first:
+      213: 4829006193605175065
+    second: garage-jukebox-bg-removed_18
+  - first:
+      213: 8701979852651366714
+    second: garage-jukebox-bg-removed_19
+  - first:
+      213: -181434682061022109
+    second: garage-jukebox-bg-removed_20
+  - first:
+      213: 375791155252084170
+    second: garage-jukebox-bg-removed_21
+  - first:
+      213: -368935130139933840
+    second: garage-jukebox-bg-removed_22
+  - first:
+      213: -1342820720617686825
+    second: garage-jukebox-bg-removed_23
+  - first:
+      213: 2110751404293617739
+    second: garage-jukebox-bg-removed_24
+  - first:
+      213: -5247819809491171773
+    second: garage-jukebox-bg-removed_25
+  - first:
+      213: 6095651172411844258
+    second: garage-jukebox-bg-removed_26
+  - first:
+      213: 8680643540549014970
+    second: garage-jukebox-bg-removed_27
+  - first:
+      213: -8756518526670327575
+    second: garage-jukebox-bg-removed_28
+  - first:
+      213: -5286620863046190348
+    second: garage-jukebox-bg-removed_29
+  - first:
+      213: 871374513264971877
+    second: garage-jukebox-bg-removed_30
+  - first:
+      213: -2451442572891080246
+    second: garage-jukebox-bg-removed_31
+  - first:
+      213: 8777670869933509075
+    second: garage-jukebox-bg-removed_32
+  - first:
+      213: -2998171563204931833
+    second: garage-jukebox-bg-removed_33
+  - first:
+      213: 8584092758677202453
+    second: garage-jukebox-bg-removed_34
+  - first:
+      213: 8264703153593640369
+    second: garage-jukebox-bg-removed_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 838
+        width: 550
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedee531fe3600260800000000000000
+      internalID: 7061754094190259691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 837
+        width: 258
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf56760591b3c80800000000000000
+      internalID: -8342046051650896412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 834
+        width: 217
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86492de411d59d0800000000000000
+      internalID: -2784049964407035722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 810
+        width: 142
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9efd71558e1f580800000000000000
+      internalID: -8794993145107453460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 612
+        width: 154
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747a0387e1a1c020800000000000000
+      internalID: 2360345695426868342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 620
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae6ea53bddfda670800000000000000
+      internalID: 8551770385386729120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 612
+        width: 228
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46511af4e753b8ed0800000000000000
+      internalID: -2410774358908660380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 612
+        width: 147
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d7f8f857fbb520800000000000000
+      internalID: 2719038761554400219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 621
+        width: 119
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c47a346966161a0800000000000000
+      internalID: -6818055565296055208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 621
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e4647acbc4c6370800000000000000
+      internalID: 8317106984990428750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 624
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfe613fc4d466ca0800000000000000
+      internalID: -6024042458670239793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 434
+        width: 107
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e1711f8f78a0da0800000000000000
+      internalID: -5977816052114448757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 463
+        width: 220
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d223e8b51a990a00800000000000000
+      internalID: 723278633256559314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 468
+        width: 142
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54645593ca64f4c0800000000000000
+      internalID: -4254658359701773217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 459
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6856e3353227e250800000000000000
+      internalID: 5973781042629597293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 457
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fbbdab0b065f5c0800000000000000
+      internalID: -4182330366778163355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 456
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c23a410d6117d0800000000000000
+      internalID: -2949456428643727818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 462
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48dcbeed5feda550800000000000000
+      internalID: 6173853850911168587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_18
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 459
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9176ff34c83140340800000000000000
+      internalID: 4829006193605175065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3904e72294a3c870800000000000000
+      internalID: 8701979852651366714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 292
+        width: 75
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c11d13e1a6b7df0800000000000000
+      internalID: -181434682061022109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 289
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb88e8014173500800000000000000
+      internalID: 375791155252084170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 295
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073c8de247741eaf0800000000000000
+      internalID: -368935130139933840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 296
+        width: 128
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87c8e4ba75d5de0800000000000000
+      internalID: -1342820720617686825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_24
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 292
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f31e0835ea4d10800000000000000
+      internalID: 2110751404293617739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 282
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346450affaffb27b0800000000000000
+      internalID: -5247819809491171773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_26
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 292
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62d46f17a189450800000000000000
+      internalID: 6095651172411844258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59630ee47d77870800000000000000
+      internalID: 8680643540549014970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 129
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e030b44bc89a7680800000000000000
+      internalID: -8756518526670327575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 123
+        width: 128
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa76f3b55622a6b0800000000000000
+      internalID: -5286620863046190348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_30
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 133
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560dc79c08eb71c00800000000000000
+      internalID: 871374513264971877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_31
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 132
+        width: 85
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9be8fd7f9bafdd0800000000000000
+      internalID: -2451442572891080246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_32
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 130
+        width: 164
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94ead662d80d970800000000000000
+      internalID: 8777670869933509075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_33
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 123
+        width: 184
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0e7729da5466d0800000000000000
+      internalID: -2998171563204931833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 38
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51625ff22e2d02770800000000000000
+      internalID: 8584092758677202453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garage-jukebox-bg-removed_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 657
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5effbdabf12b270800000000000000
+      internalID: 8264703153593640369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garage-jukebox-bg-removed_0: 7061754094190259691
+      garage-jukebox-bg-removed_1: -8342046051650896412
+      garage-jukebox-bg-removed_10: -6024042458670239793
+      garage-jukebox-bg-removed_11: -5977816052114448757
+      garage-jukebox-bg-removed_12: 723278633256559314
+      garage-jukebox-bg-removed_13: -4254658359701773217
+      garage-jukebox-bg-removed_14: 5973781042629597293
+      garage-jukebox-bg-removed_15: -4182330366778163355
+      garage-jukebox-bg-removed_16: -2949456428643727818
+      garage-jukebox-bg-removed_17: 6173853850911168587
+      garage-jukebox-bg-removed_18: 4829006193605175065
+      garage-jukebox-bg-removed_19: 8701979852651366714
+      garage-jukebox-bg-removed_2: -2784049964407035722
+      garage-jukebox-bg-removed_20: -181434682061022109
+      garage-jukebox-bg-removed_21: 375791155252084170
+      garage-jukebox-bg-removed_22: -368935130139933840
+      garage-jukebox-bg-removed_23: -1342820720617686825
+      garage-jukebox-bg-removed_24: 2110751404293617739
+      garage-jukebox-bg-removed_25: -5247819809491171773
+      garage-jukebox-bg-removed_26: 6095651172411844258
+      garage-jukebox-bg-removed_27: 8680643540549014970
+      garage-jukebox-bg-removed_28: -8756518526670327575
+      garage-jukebox-bg-removed_29: -5286620863046190348
+      garage-jukebox-bg-removed_3: -8794993145107453460
+      garage-jukebox-bg-removed_30: 871374513264971877
+      garage-jukebox-bg-removed_31: -2451442572891080246
+      garage-jukebox-bg-removed_32: 8777670869933509075
+      garage-jukebox-bg-removed_33: -2998171563204931833
+      garage-jukebox-bg-removed_34: 8584092758677202453
+      garage-jukebox-bg-removed_35: 8264703153593640369
+      garage-jukebox-bg-removed_4: 2360345695426868342
+      garage-jukebox-bg-removed_5: 8551770385386729120
+      garage-jukebox-bg-removed_6: -2410774358908660380
+      garage-jukebox-bg-removed_7: 2719038761554400219
+      garage-jukebox-bg-removed_8: -6818055565296055208
+      garage-jukebox-bg-removed_9: 8317106984990428750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

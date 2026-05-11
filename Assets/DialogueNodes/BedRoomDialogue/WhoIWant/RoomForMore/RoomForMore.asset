@@ -19,12 +19,12 @@ MonoBehaviour:
   playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
   npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
   options:
-  - optionText: 'Is that so? Sounds to me like you''ve got room for all kinds of
-      fun activies! '
-    nextNode: {fileID: 11400000, guid: 2b144bc771d57c842b73b141a0bc9be9, type: 2}
+  - optionText: 'Maybe I should attend that school... professor Andrew can teach
+      me all there is to know about the ocean! '
+    nextNode: {fileID: 11400000, guid: a5997375e22eadf42bf90f96d626d2d5, type: 2}
     choiceTrigger:
-      text: Can you now? Maybe we should test out just how much you can really fit
-        some day...
+      text: 'Maybe I should attend that school... professor Andrew can teach me all
+        there is to know about the ocean! '
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
@@ -33,12 +33,12 @@ MonoBehaviour:
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: 'Maybe I should attend that school... professor Andrew can teach
-      me all there is to know about the ocean! '
-    nextNode: {fileID: 11400000, guid: a5997375e22eadf42bf90f96d626d2d5, type: 2}
+  - optionText: 'Is that so? Sounds to me like you''ve got room for all kinds of
+      fun activies! '
+    nextNode: {fileID: 11400000, guid: 2b144bc771d57c842b73b141a0bc9be9, type: 2}
     choiceTrigger:
-      text: 'Maybe I should attend that school... professor Andrew can teach me all
-        there is to know about the ocean! '
+      text: Can you now? Maybe we should test out just how much you can really fit
+        some day...
       requiredItem: {fileID: 0}
       setsFlag: 
       changesPhase: 0
