@@ -15,9 +15,9 @@ MonoBehaviour:
   defaultText: 'Don''t you think you''re platypushing it a little dude? I got that
     natural sea cleanser, but whatever man... let''s just find the blankets '
   conditionalTexts: []
-  locationImage: {fileID: 8197047826604361390, guid: 6cfc74eabc2e3244fb4af84d21c7da16, type: 3}
-  playerSprite: {fileID: -1034332879, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: 836729182306382076, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  locationImage: {fileID: 8197047826604361390, guid: 73e6288fc72e45b4e91c1b63a9c7df38, type: 3}
+  playerSprite: {fileID: -831892368157826313, guid: 253ca898bb23d1f4fb445517cd4d7086, type: 3}
+  npcSprite: {fileID: 26335998, guid: ffee90d6d34f5cd44b9ca5b729384c27, type: 3}
   options:
   - optionText: 'Sorry, that was a rather rash thing to say... let''s just find the
       blankets and move on!  '

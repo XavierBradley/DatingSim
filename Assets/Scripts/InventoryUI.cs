@@ -4,28 +4,22 @@ using UnityEngine.UI;
 
 public class InventoryUI : MonoBehaviour
 {
-    public List<Image> slotIcons;
-
-    private void Start()
-    {
-       // UpdateUI(Inventory.Instance.items);
-    }
+    [SerializeField] private Image[] slotImages;
 
     public void UpdateUI(List<Items> items)
     {
-        for (int i = 0; i < slotIcons.Count; i++)
+        for (int i = 0; i < slotImages.Length; i++)
         {
-            if (i < items.Count)
+            if (i < items.Count && items[i] != null)
             {
-                slotIcons[i].sprite = items[i].icon;
-                slotIcons[i].gameObject.SetActive(true);
+                slotImages[i].sprite = items[i].icon;
+                slotImages[i].color = Color.white;
             }
-
-       //keeping commented out, will find a way to re-implement in a way that doesn't break inventory if/when we decide to actually expend inventory slots
-         //   else
-           // {
-          //      slotIcons[i].gameObject.SetActive(false);
-           // }
+            else
+            {
+                slotImages[i].sprite = null;
+                slotImages[i].color = new Color(1f, 1f, 1f, 0.25f);
+            }
         }
     }
 }

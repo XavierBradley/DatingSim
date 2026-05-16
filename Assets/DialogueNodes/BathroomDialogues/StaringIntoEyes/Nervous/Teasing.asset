@@ -15,9 +15,9 @@ MonoBehaviour:
   defaultText: 'I.... suppose I''m not entirely against it! B-but... right now I
     just really need that medicine! Pleaaase? '
   conditionalTexts: []
-  locationImage: {fileID: 3657256932754973414, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
-  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: -686733841, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  locationImage: {fileID: 818401041, guid: b4bfe2fc97f77464ba440a5bc10e968b, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 253ca898bb23d1f4fb445517cd4d7086, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 6a156b779cb03b548ba2ef117e185527, type: 3}
   options:
   - optionText: Good! Then I'll be sure to tease you every chance I get!
     nextNode: {fileID: 0}

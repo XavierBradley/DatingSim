@@ -15,9 +15,9 @@ MonoBehaviour:
   defaultText: 'O-of course not! I... I like.... all of you.... and I''d... like
     to get to know it all better! Once... you know.. we get a moment... '
   conditionalTexts: []
-  locationImage: {fileID: 8223305577009396306, guid: a3bda1da32945f149ac930f7c3cff4e1, type: 3}
-  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: -647588791701333756, guid: 184162dd5da81b5478fd2314c4943240, type: 3}
+  locationImage: {fileID: 5350135763212627994, guid: 2797a97f3db7ccc428fdeedd859de673, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 253ca898bb23d1f4fb445517cd4d7086, type: 3}
+  npcSprite: {fileID: -647588791701333756, guid: 6a156b779cb03b548ba2ef117e185527, type: 3}
   options:
   - optionText: I'll hold you to that! Or maybe I should just hold you full stop...
     nextNode: {fileID: 11400000, guid: 339835e34307ccd409c9bfc6933cf8d7, type: 2}

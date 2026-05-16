@@ -12,30 +12,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8785d9e55072e48aa1836ef99ecdaf, type: 3}
   m_Name: Compliment
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  defaultText: 'The country?! Not sure that''s possible, unless you mean to tell me that you moved to a different country? '
+  defaultText: 'The country?! Not sure that''s possible, unless you mean to tell
+    me that you moved to a different country? '
   conditionalTexts: []
-  locationImage: {fileID: 3217450130235862456, guid: 7fb2684725d765c41935f660ab49e3f7, type: 3}
-  playerSprite: {fileID: 6848535425815238608, guid: 339dfdb835b0e07448855ac9dd948377, type: 3}
-  npcSprite: {fileID: 7310064867776009774, guid: 54f4007506920af44bcc6b7374d1e5c3, type: 3}
+  locationImage: {fileID: -6762806206646994688, guid: 5a312ca6513adf944b2510ddbd8ab41a, type: 3}
+  playerSprite: {fileID: 6848535425815238608, guid: 253ca898bb23d1f4fb445517cd4d7086, type: 3}
+  npcSprite: {fileID: 7310064867776009774, guid: ffee90d6d34f5cd44b9ca5b729384c27, type: 3}
   options:
-  - optionText: So you can compliment me then? And here I thought I'd have to work harder for your affection...
+  - optionText: So you can compliment me then? And here I thought I'd have to work
+      harder for your affection...
     nextNode: {fileID: 11400000, guid: 8875828ef1c437d468ebffefadb7f064, type: 2}
     choiceTrigger:
-      text: So you can compliment me then? And here I thought I'd have to work harder for your affection...
+      text: So you can compliment me then? And here I thought I'd have to work harder
+        for your affection...
       requiredItem: {fileID: 0}
-      setsFlag:
+      setsFlag: 
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
     blockedFlags: []
     usePhaseRequirement: 0
     requiredPhase: 0
-  - optionText: Definitely not... I don't intend to go anywhere unless it's where you're going
+  - optionText: Definitely not... I don't intend to go anywhere unless it's where
+      you're going
     nextNode: {fileID: 11400000, guid: fc05d00c705e71f439416c8e3d211b50, type: 2}
     choiceTrigger:
-      text: Definitely not... I don't intend to go anywhere unless it's where you're going
+      text: Definitely not... I don't intend to go anywhere unless it's where you're
+        going
       requiredItem: {fileID: 0}
-      setsFlag:
+      setsFlag: 
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
@@ -47,7 +52,7 @@ MonoBehaviour:
     choiceTrigger:
       text: 'Yeah... I guess I am kinda out of your league aren''t I? '
       requiredItem: {fileID: 0}
-      setsFlag:
+      setsFlag: 
       changesPhase: 0
       newPhase: 0
     requiredFlags: []
@@ -57,9 +62,9 @@ MonoBehaviour:
   - optionText: 'Awww you''re too sweet! Ready to make those sandwiches now? '
     nextNode: {fileID: 11400000, guid: 5c008127f0dd48145990a99ef96ecd6d, type: 2}
     choiceTrigger:
-      text:
+      text: 
       requiredItem: {fileID: 0}
-      setsFlag:
+      setsFlag: 
       changesPhase: 0
       newPhase: 0
     requiredFlags: []

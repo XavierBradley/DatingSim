@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7fb2684725d765c41935f660ab49e3f7
+guid: 5a312ca6513adf944b2510ddbd8ab41a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3217450130235862456
-    second: IMG_4291_2_0
+      213: -6762806206646994688
+    second: kitchen_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_4291_2_0
+      name: kitchen_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8bd2e3fb8dda6ac20800000000000000
-      internalID: 3217450130235862456
+      spriteID: 009bffff59fa522a0800000000000000
+      internalID: -6762806206646994688
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IMG_4291_2_0: 3217450130235862456
+      kitchen_0: -6762806206646994688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

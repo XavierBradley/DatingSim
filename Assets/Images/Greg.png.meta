@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 339dfdb835b0e07448855ac9dd948377
+guid: 253ca898bb23d1f4fb445517cd4d7086
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 6848535425815238608
     second: Greg_0
+  - first:
+      213: -831892368157826313
+    second: Greg_1
+  - first:
+      213: -2450263632334574995
+    second: Greg_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,19 +102,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -116,12 +109,12 @@ TextureImporter:
       name: Greg_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 1024
+        x: 187
+        y: 40
+        width: 299
+        height: 934
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,20 +131,20 @@ TextureImporter:
       name: Greg_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 1024
+        x: 615
+        y: 40
+        width: 333
+        height: 935
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 030f26e06f0280e40a04621b7a286460
-      internalID: -1034332879
+      spriteID: 7f228987c468474f0800000000000000
+      internalID: -831892368157826313
       vertices: []
       indices: 
       edges: []
@@ -160,20 +153,20 @@ TextureImporter:
       name: Greg_2
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 1024
+        x: 1129
+        y: 40
+        width: 301
+        height: 933
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9c78171a037783e4fafc4e550ac2bd54
-      internalID: 1865301430
+      spriteID: d6aa3ac553aeefdd0800000000000000
+      internalID: -2450263632334574995
       vertices: []
       indices: 
       edges: []
@@ -182,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ca9f6b887b36bd542a414167549ef709
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -190,13 +183,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       Greg_0: 6848535425815238608
-      Greg_1: -1034332879
-      Greg_2: 1865301430
+      Greg_1: -831892368157826313
+      Greg_2: -2450263632334574995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
